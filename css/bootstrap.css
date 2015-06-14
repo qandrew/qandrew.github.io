@@ -6582,3 +6582,20 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+/* Below are Andrew Xia Addons */
+
+#postlinks cpt {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 17px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#post cpt {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
