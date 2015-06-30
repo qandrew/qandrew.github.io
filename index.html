@@ -95,10 +95,55 @@
                       Math Association </a>.
                     </p>
                     <p>
-                      Please feel free to explore this website! I hope to show you who I am as a student (<a href="projects">projects</a>),
-                      and also as a person with diverse <a href = "interests">interests</a>.
+                      Please feel free to explore this website! I hope to show you who I am as a student,
+                      and also as a person with diverse interests.
                     </p>
-                    <h3> Latest Posts: </h3>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-lg-4"> <center>
+                    <a href = "projects"><img class="img-circle" src="img/home_work.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                    <h2>My Work</h2></a>
+                    <p>Some of my recent projects</p>
+                    <p>
+                    <a href = "projects/"> <button type="button" class="btn btn-default" >Projects</button> </a>
+                    <a href = "blog/"> <button type="button" class="btn btn-default" >Blog</button> </a>
+                  </p>
+                  </center></div>
+                  <div class="col-lg-4"><center>
+                    <a href = "about"><img class="img-circle" src="img/home_profpic.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                    <h2>About me</h2></a>
+                    <p>Who is Andrew? <i>What is Andrew?</i></p>
+                    <p>
+                      <a target = "_blank" href = "files/resume/andrew_resume.pdf"> <button type="button" class="btn btn-default" >Resume</button></a>
+                      <a href = "contact"> <button type="button" class="btn btn-default" >Contact</button> </a>
+                    </p>
+                  </center></div>
+                  <div class="col-lg-4"><center>
+                    <a href = "interests/"><img class="img-circle" src="img/home_interests.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                    <h2>My Interests</h2></a>
+                    <p>What I like to do in my free time</p>
+                    <p>
+                      <a href = "interests/movies"> <button type="button" class="btn btn-default" >Movies</button> </a>
+                      <a href = "interests/books"> <button type="button" class="btn btn-default" >Books</button> </a>
+                      <a href = "interests/music"> <button type="button" class="btn btn-default" >Music</button> </a>
+                      <a href = "interests/photos"> <button type="button" class="btn btn-default" >Photos</button> </a>
+                    </p>
+                  </center></div>
+                </div>
+                <hr>
+                <h3> Recent Posts: </h3>
+                <hr>
+                <div class="post-preview">
+                    <a href="blog/1.sleeplessnight.html">
+                        <h2 class="post-title">
+                            The Sleepless Night
+                        </h2>
+                        <h3 class="post-subtitle">
+                            An introspective journal entry about 2013 Andrew's most cherised memory
+                        </h3>
+                    </a>
+                    <p class="post-meta">Posted by <a href="about">Andrew Xia</a> on June 30th, 2015</p>
                 </div>
                 <hr>
                 <div class="post-preview">
@@ -137,17 +182,6 @@
                     <p class="post-meta">Posted by <a href="about">Andrew Xia</a> on June 9th, 2015</p>
                 </div>
                 <hr>
-                <div class="post-preview">
-                    <a href="http://amphibious.mit.edu/">
-                        <h2 class="post-title">
-                            Amphibious Achievement
-                        </h2>
-                        <h3 class="post-subtitle">
-                            I am a swim coach and academic mentor for Amphibious Achievement, a student-run organization that tutors local Boston high school students.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="about">Andrew Xia</a> on June 6th, 2015</p>
-                </div>
                 <!-- Pager -->
                 <ul class="pager">
                     <li class="next">
@@ -159,9 +193,7 @@
             </div>
         </div>
     </div>
-
     <hr>
-
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -169,31 +201,44 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                       <li>
-                          <a href="#">
+                          <a data-toggle="popover" data-trigger="hover" data-placement="top" title="weChat" data-content="qandr3w">
                               <span class="fa-stack fa-lg">
                                   <i class="fa fa-circle fa-stack-2x"></i>
                                   <i class="fa fa-wechat fa-stack-1x fa-inverse"></i>
                               </span>
                           </a>
                       </li>
-                        <li>
-                            <a href="https://www.facebook.com/qandr3w">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/qandrew">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
+                      <li>
+                          <!-- mailto:axia@mit.edu I don't like it though-->
+                          <a  data-toggle="popover" data-trigger="hover" data-placement="top" title="email: axia [at] mit [dot] edu"
+                          data-content="Please email with title 'Request from Website'">
+                              <span class="fa-stack fa-lg">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                              </span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://www.facebook.com/qandr3w" data-toggle="popover" data-trigger="hover" data-placement="top" title="facebook"
+                          data-content="Check it out!">
+                              <span class="fa-stack fa-lg">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                              </span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/qandrew" data-toggle="popover" data-trigger="hover" data-placement="top" title="github" data-content="the source">
+                              <span class="fa-stack fa-lg">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                              </span>
+                          </a>
+                      </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; <a href="http://startbootstrap.com/template-overviews/clean-blog/">Start Bootstrap</a>, Andrew Xia 2015</p>
+                    <p class="copyright text-muted">
+                      Copyright &copy; <a href="http://startbootstrap.com/template-overviews/clean-blog/">Start Bootstrap</a>, Andrew Xia 2015
+                    </p>
                 </div>
             </div>
         </div>
@@ -207,6 +252,12 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/clean-blog.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        $('[data-toggle="popover"]').popover();
+      });
+    </script>
 
   </body>
 
