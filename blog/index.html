@@ -57,7 +57,6 @@
                   <li><a href="../projects/">Projects</a></li>
                   <li><a href="../interests/">Interests</a></li>
                   <li><a href="#">Blog</a></li>
-                  <li><a href="../contact">Contact Me</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -106,52 +105,71 @@
 
     <hr>
 
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <ul class="list-inline text-center">
-                      <li>
-                          <a href="#">
-                              <span class="fa-stack fa-lg">
-                                  <i class="fa fa-circle fa-stack-2x"></i>
-                                  <i class="fa fa-wechat fa-stack-1x fa-inverse"></i>
-                              </span>
-                          </a>
-                      </li>
-                        <li>
-                            <a href="https://www.facebook.com/qandr3w">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/qandrew">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                    </ul>
-                    <p class="copyright text-muted">Copyright &copy; Andrew Xia 2015</p>
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <ul class="list-inline text-center">
+                          <li>
+                              <a data-toggle="popover" data-trigger="hover" data-placement="top" title="weChat" data-content="qandr3w">
+                                  <span class="fa-stack fa-lg">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                                      <i class="fa fa-wechat fa-stack-1x fa-inverse"></i>
+                                  </span>
+                              </a>
+                          </li>
+                          <li>
+                              <!-- mailto:axia@mit.edu I don't like it though-->
+                              <a  data-toggle="popover" data-trigger="hover" data-placement="top" title="email: axia [at] mit [dot] edu"
+                              data-content="Please email with title 'Request from Website' otherwise I will not see it.">
+                                  <span class="fa-stack fa-lg">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                                      <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                  </span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://www.facebook.com/qandr3w" data-toggle="popover" data-trigger="hover" data-placement="top" title="facebook"
+                              data-content="Check it out!">
+                                  <span class="fa-stack fa-lg">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                                      <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                  </span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://github.com/qandrew" data-toggle="popover" data-trigger="hover" data-placement="top" title="github" data-content="the source">
+                                  <span class="fa-stack fa-lg">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                                      <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                  </span>
+                              </a>
+                          </li>
+                        </ul>
+                        <p class="copyright text-muted">
+                          Copyright &copy; <a href="http://startbootstrap.com/template-overviews/clean-blog/">Start Bootstrap</a>, Andrew Xia 2015
+                        </p>
+                    </div>
                 </div>
             </div>
-        </div>
-    </footer>
+        </footer>
 
-    <!-- jQuery -->
-    <script src="../js/jquery.js"></script>
+        <!-- jQuery -->
+        <script src="../js/jquery.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="../js/bootstrap.min.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="../js/bootstrap.min.js"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="../js/clean-blog.min.js"></script>
+        <!-- Custom Theme JavaScript -->
+        <script src="../js/clean-blog.min.js"></script>
 
-  </body>
+        <script>
+          $(document).ready(function(){
+            $('[data-toggle="popover"]').popover();
+          });
+        </script>
 
-  </html>
+        </body>
+
+        </html>
