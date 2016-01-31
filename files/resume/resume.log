@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.6.14)  30 JAN 2016 23:41
+entering extended mode
+**C:/Users/Andrew/Documents/GitHub/qandrew.github.io/files/resume/resume.cls
+(C:/Users/Andrew/Documents/GitHub/qandrew.github.io/files/resume/resume.cls
+! Undefined control sequence.
+l.21 \ProvidesClass
+                   {resume}[2010/07/10 v0.9 Resume class]
+? 
+! Emergency stop.
+l.21 \ProvidesClass
+                   {resume}[2010/07/10 v0.9 Resume class]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
