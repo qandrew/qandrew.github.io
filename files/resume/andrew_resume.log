@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.7)  18 AUG 2016 08:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.7)  28 AUG 2016 12:30
 entering extended mode
 **C:/Users/Andrew/Documents/GitHub/qandrew.github.io/files/resume/andrew_resume
 .tex
@@ -20,8 +20,8 @@ ishmax, welsh, loaded.
 Document Class: resume 2010/07/10 v0.9 Resume class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -102,18 +102,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 (C:\Users\Andrew\Documents\GitHub\qandrew.github.io\files\resume\andrew_resume.
 aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -123,23 +123,23 @@ LaTeX Font Info:    ... okay on input line 31.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* h-part:(L,W,R)=(28.90755pt, 556.4799pt, 28.90755pt)
 * v-part:(T,H,B)=(28.90755pt, 737.15489pt, 28.90755pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
+* \textwidth=556.4799pt
 * \textheight=737.15489pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
+* \oddsidemargin=-43.36244pt
+* \evensidemargin=-43.36244pt
 * \topmargin=-80.36244pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -164,29 +164,22 @@ LaTeX Font Info:    ... okay on input line 31.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 31.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <5> on input line 32.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 31--31
+Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--54
+Underfull \hbox (badness 10000) in paragraph at lines 42--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--54
+Underfull \hbox (badness 10000) in paragraph at lines 42--55
 
- []
-
-
-Overfull \hbox (25.15602pt too wide) in paragraph at lines 117--123
-[][] 
  []
 
 [1
@@ -195,19 +188,19 @@ Overfull \hbox (25.15602pt too wide) in paragraph at lines 117--123
 (C:\Users\Andrew\Documents\GitHub\qandrew.github.io\files\resume\andrew_resume.
 aux) ) 
 Here is how much of TeX's memory you used:
- 1631 strings out of 493921
- 22619 string characters out of 3147280
- 82840 words of memory out of 3000000
- 4946 multiletter control sequences out of 15000+200000
- 7639 words of font info for 27 fonts, out of 3000000 for 9000
+ 1615 strings out of 493921
+ 22432 string characters out of 3147280
+ 83880 words of memory out of 3000000
+ 4936 multiletter control sequences out of 15000+200000
+ 4900 words of font info for 18 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,21p,268b,155s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,21p,321b,153s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on andrew_resume.pdf (1 page, 82895 bytes).
+Output written on andrew_resume.pdf (1 page, 84394 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
