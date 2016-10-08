@@ -4,6 +4,7 @@ import csv, json
 
 def addToDict(word,jsondict):
 	#add the dict to the word in a tree esque format
+	word = word.lower()
 	t9 = convertToT9(word)
 	print t9
 	currDict = jsondict
@@ -25,7 +26,7 @@ def addToDict(word,jsondict):
 
 def convertToT9(word):
 	#convert a word to equivalent number
-	word = word.lower()
+	# word = word.lower()
 	t9 = ""
 	for letter in word:
 		if letter in "abc":

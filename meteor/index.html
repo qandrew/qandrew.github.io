@@ -10,7 +10,7 @@
 		<h1>Meteor Coding Challenge</h1>
 		<img src="telephone.png" alt='t9 keyboard image'>
 		<p>Please type numbers in the input box below, and results will display</p>
-		<p>Search here: <input ng-model="newSearch"></input></p>
+		<p>Search here: <input ng-model="search"></input></p>
 		<p>Currently typing: {{newSearch}}</p>
 
 		<p>Displaying people:</p>
@@ -19,7 +19,9 @@
 				{{x.name}}, {{x.country}}
 			</li>
 		</ul>
-		
+
+		<p>Test {{t9Filter(search)}}</p>
+		<p>{{dict[2][3]}}</p>
 
 		<script src="main.js"></script>
 	</div>
