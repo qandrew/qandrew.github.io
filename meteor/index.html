@@ -20,7 +20,12 @@
 			</li>
 		</ul>
 
-		<p>Test {{t9Filter(search)}}</p>
+		<p>Direct Matches:</p>
+			<li ng-repeat= "x in t9Filter(search)">
+				{{x}}
+			</li>
+			
+		<p>{{t9Filter(search)}}</p>
 		<p>{{dict[2][3]}}</p>
 
 		<script src="main.js"></script>

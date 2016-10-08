@@ -56,9 +56,9 @@ jsondict = {}
 #import
 with open(filename) as inputfile:
 	for row in csv.reader(inputfile):
-		if len(results) < 100: #smaller case to work with
-			addToDict(row[0], jsondict) #take the word from the list
-			results.append(row)
+		# if len(results) < 100: #smaller case to work with
+		addToDict(row[0], jsondict) #take the word from the list
+		results.append(row)
 
 #export to json
 with open('result.json','w') as fp:

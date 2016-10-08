@@ -24,20 +24,26 @@ app.controller('mainCtrl', function($scope,$http) {
             currDict = $scope.dict;
             for (i = 0; i < search.length; i++){
                 ltr = search[i]
-                if (currDict.hasOwnProperty(ltr)){
+                if (currDict != null){
+                    if (currDict.hasOwnProperty(ltr)){
                     // if (currDict[ltr]['word'].length != 0)
                     //     words.push(currDict[ltr]['word'])
                     currDict = currDict[ltr];
                 }
                 else
-                    currDict = 'none';
-                words.push(ltr);
+                    currDict = null;
+                }
+                // words.push(ltr);
             }
 
             // entered a node with no results
-            if (currDict == "none"){
+            if (currDict == null){
                 return "No Results"
             }
+            if (currDict['word'].length != 0)
+                return currDict['word'];
+            return "No Results"
+            // words.push(currDict);
 
             // return search.length
             return words;
@@ -45,6 +51,7 @@ app.controller('mainCtrl', function($scope,$http) {
         else 
             return ""
     }
+
     // http://stackoverflow.com/questions/13020821/how-to-load-json-into-my-angular-js-ng-model 
     $http.get('http://qandrew.github.io/meteor/result.json')
         .success(function(data){
