@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+</html>
+<head>
+	<title>Meteor Coding Challenge</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+</head>
+
+<body ng-app = "myApp">
+	<div ng-controller="mainCtrl">
+		<h1>Meteor Coding Challenge</h1>
+		<img src="telephone.png" alt='t9 keyboard image'>
+		<p>Please type numbers in the input box below, and results will display</p>
+		<p>Search here: <input ng-model="newSearch"></input></p>
+		<p>Currently typing: {{newSearch}}</p>
+
+		<p>Displaying people:</p>
+		<ul>
+			<li ng-repeat= "x in names | filter: newSearch">
+				{{x.name}}, {{x.country}}
+			</li>
+		</ul>
+		
+
+		<script src="main.js"></script>
+	</div>
+</body>
+</html>
