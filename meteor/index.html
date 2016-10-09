@@ -11,22 +11,18 @@
 		<img src="telephone.png" alt='t9 keyboard image'>
 		<p>Please type numbers in the input box below, and results will display</p>
 		<p>Search here: <input ng-model="search"></input></p>
-		<p>Currently typing: {{newSearch}}</p>
 
-		<p>Displaying people:</p>
-		<ul>
-			<li ng-repeat= "x in names | filter: newSearch">
-				{{x.name}}, {{x.country}}
-			</li>
-		</ul>
-
-		<p>Direct Matches:</p>
+		<p>Exact Matches:</p>
+		 <!-- {{t9Filter(search)}}</p> -->
 			<li ng-repeat= "x in t9Filter(search)">
 				{{x}}
 			</li>
-			
-		<p>{{t9Filter(search)}}</p>
-		<p>{{dict[2][3]}}</p>
+
+		<p>Prefix Matches:</p>
+		 <!-- {{t9Prefix(search)}}</p> -->
+			<li ng-repeat= "x in t9Prefix(search)">
+				{{x}}
+			</li>
 
 		<script src="main.js"></script>
 	</div>
