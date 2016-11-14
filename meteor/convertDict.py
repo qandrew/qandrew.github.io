@@ -54,22 +54,20 @@ results = []
 jsondict = {}
 
 #import
-with open(filename) as inputfile:
-	for row in csv.reader(inputfile):
-		# if len(results) < 100: #smaller case to work with
-		addToDict(row[0], jsondict) #take the word from the list
-		results.append(row)
+# with open(filename) as inputfile:
+# 	for row in csv.reader(inputfile):
+# 		# if len(results) < 100: #smaller case to work with
+# 		addToDict(row[0], jsondict) #take the word from the list
+# 		results.append(row)
 
-#export to json
-with open('result.json','w') as fp:
-	json.dump(jsondict,fp)
+# #export to json
+# with open('result.json','w') as fp:
+# 	json.dump(jsondict,fp)
 
 
 # print jsondict['2']['2'].keys()
-print len(results)
+# print len(results)
 
-# if __name__ == "__main__":
-	# addToDict('SAM',jsondict)
-	# addToDict('SAM',jsondict)
-	# addToDict('SAP',jsondict)
+if __name__ == "__main__":
+	print convertToT9('sam')
 	
