@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Andrew Xia</title>
+    <link>https://USERNAME.github.io/tags/academic/</link>
+    <description>Recent content in Academic on Andrew Xia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew Xia</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>6.824 Final Project: ORGanized Interactions</title>
+      <link>https://USERNAME.github.io/post/6.824/</link>
+      <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
+      
+      <guid>https://USERNAME.github.io/post/6.824/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.&lt;/p&gt;
+
+&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://USERNAME.github.io/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6.115 Final Project: 3D Tic Tac Toe</title>
+      <link>https://USERNAME.github.io/post/6.115/</link>
+      <pubDate>Sat, 28 May 2016 06:46:36 -0400</pubDate>
+      
+      <guid>https://USERNAME.github.io/post/6.115/</guid>
+      <description>
+
+&lt;p&gt;For my final project, I built a 3D Tic Tac Toe game, complete with an AI for the user to play against. The input of the game used capacitave based sensing chips, and the output of the game was displayed on a VGA screen. I used my 8051 and R31JP to connect with my PSoC to process the user input and game engine.&lt;/p&gt;
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/x5vISL8aN4Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
+
+&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/qandrew/6.115-final-project&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
