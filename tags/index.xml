@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew Xia</title>
-    <link>https://USERNAME.github.io/tags/</link>
+    <link>https://qandrew.github.io/tags/</link>
     <description>Recent content in Tags on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,40 +12,40 @@
     
     <item>
       <title>Academic</title>
-      <link>https://USERNAME.github.io/tags/academic/</link>
+      <link>https://qandrew.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://USERNAME.github.io/tags/academic/</guid>
+      <guid>https://qandrew.github.io/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://USERNAME.github.io/tags/photo/</link>
+      <link>https://qandrew.github.io/tags/photo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://USERNAME.github.io/tags/photo/</guid>
+      <guid>https://qandrew.github.io/tags/photo/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;photo&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>https://USERNAME.github.io/tags/video/</link>
+      <link>https://qandrew.github.io/tags/video/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://USERNAME.github.io/tags/video/</guid>
+      <guid>https://qandrew.github.io/tags/video/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;video&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://USERNAME.github.io/tags/projects/</link>
+      <link>https://qandrew.github.io/tags/projects/</link>
       <pubDate>Mon, 15 Jun 2015 11:50:20 -0400</pubDate>
       
-      <guid>https://USERNAME.github.io/tags/projects/</guid>
+      <guid>https://qandrew.github.io/tags/projects/</guid>
       <description></description>
     </item>
     

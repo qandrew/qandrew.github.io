@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Xia on Andrew Xia</title>
-    <link>https://USERNAME.github.io/</link>
+    <link>https://qandrew.github.io/</link>
     <description>Recent content in Andrew Xia on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,17 +12,17 @@
     
     <item>
       <title>6.824 Final Project: ORGanized Interactions</title>
-      <link>https://USERNAME.github.io/post/6.824/</link>
+      <link>https://qandrew.github.io/post/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
       
-      <guid>https://USERNAME.github.io/post/6.824/</guid>
+      <guid>https://qandrew.github.io/post/6.824/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
 
 &lt;p&gt;For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.&lt;/p&gt;
 
-&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://USERNAME.github.io/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://qandrew.github.io/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -30,10 +30,10 @@
     
     <item>
       <title>Summer 2016 Vlog</title>
-      <link>https://USERNAME.github.io/post/2016_videos/</link>
+      <link>https://qandrew.github.io/post/2016_videos/</link>
       <pubDate>Tue, 28 Jun 2016 06:47:13 -0400</pubDate>
       
-      <guid>https://USERNAME.github.io/post/2016_videos/</guid>
+      <guid>https://qandrew.github.io/post/2016_videos/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>6.115 Final Project: 3D Tic Tac Toe</title>
-      <link>https://USERNAME.github.io/post/6.115/</link>
+      <link>https://qandrew.github.io/post/6.115/</link>
       <pubDate>Sat, 28 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>https://USERNAME.github.io/post/6.115/</guid>
+      <guid>https://qandrew.github.io/post/6.115/</guid>
       <description>
 
 &lt;p&gt;For my final project, I built a 3D Tic Tac Toe game, complete with an AI for the user to play against. The input of the game used capacitave based sensing chips, and the output of the game was displayed on a VGA screen. I used my 8051 and R31JP to connect with my PSoC to process the user input and game engine.&lt;/p&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>MIT Sophomore Mixer Series</title>
-      <link>https://USERNAME.github.io/post/mixer_series/</link>
+      <link>https://qandrew.github.io/post/mixer_series/</link>
       <pubDate>Mon, 15 Jun 2015 11:50:20 -0400</pubDate>
       
-      <guid>https://USERNAME.github.io/post/mixer_series/</guid>
+      <guid>https://qandrew.github.io/post/mixer_series/</guid>
       <description>
 
 &lt;p&gt;Over IAP 2015 (MIT Speak for our January break), Justine Jang and I worked with Fred Daso and the MIT 2017 Class Council on the Mixer Series project as a way to connect MIT sophomores with each other.&lt;/p&gt;
@@ -130,7 +130,7 @@
 
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
 
-&lt;p&gt;View the &lt;a href=&#34;https://USERNAME.github.io/files/mixerseries_proposal.pdf&#34;&gt;proposal document&lt;/a&gt; we wrote to the 2017 Class Council&lt;/p&gt;
+&lt;p&gt;View the &lt;a href=&#34;https://qandrew.github.io/files/mixerseries_proposal.pdf&#34;&gt;proposal document&lt;/a&gt; we wrote to the 2017 Class Council&lt;/p&gt;
 
 &lt;p&gt;View our form &lt;a href=&#34;https://docs.google.com/forms/d/1XnbpaHoILWYE92E3rfoKTKgy0hzQaaQZNhwG7ckSfUE&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
