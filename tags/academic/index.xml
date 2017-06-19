@@ -11,6 +11,35 @@
     <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>2017 SuperUROP Project</title>
+      <link>https://qandrew.github.io/post/2017_superurop/</link>
+      <pubDate>Mon, 29 May 2017 16:09:12 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/post/2017_superurop/</guid>
+      <description>
+
+&lt;p&gt;For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was &lt;em&gt;Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Having an effective and convenient authentication system
+is necessary for the future development and increased
+usage of devices in the Internet of Things. This
+paper presents the implementation of a pairings-based,
+public key leakage resilient authentication system to
+improve upon current authentication schemes. We have
+developed a pairings library in C, and we have implemented
+software in RISCV assembly that successfully
+implements such authentication scheme on a FPGA,
+demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
+
+&lt;!-- {{&lt;button &#34;hi&#34; &#34;hu&#34; &#34;hu&#34;&gt;}} --&gt;
+
+&lt;p&gt;My paper can be found &lt;a href=&#34;https://qandrew.github.io/files/superUROP.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>6.824 Final Project: ORGanized Interactions</title>
       <link>https://qandrew.github.io/post/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>

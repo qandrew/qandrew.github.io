@@ -18,104 +18,14 @@
       <guid>https://qandrew.github.io/post/photos/</guid>
       <description>
 
-&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+&lt;!-- # Test --&gt;
 
 &lt;!-- &lt;script src=&#34;//gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt; --&gt;
 
-&lt;!-- 
+&lt;p&gt;
 
 &lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/6824ORGI.png&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/6824ORGI.png&#34; alt=&#34;6824 o r g i&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;6824 o r g i&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/6824ORGI.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/boards.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/boards.jpg&#34; alt=&#34;Boards&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Boards&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/boards.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/bubbles.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/bubbles.jpg&#34; alt=&#34;Bubbles&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Bubbles&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/bubbles.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/chM.png&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/chM.png&#34; alt=&#34;Ch m&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Ch m&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/chM.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/me.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/me.jpg&#34; alt=&#34;Me&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Me&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/me.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/mixerseries_cover.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/mixerseries_cover.jpg&#34; alt=&#34;Mixerseries cover&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Mixerseries cover&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/mixerseries_cover.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/portrait.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/portrait.jpg&#34; alt=&#34;Portrait&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Portrait&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/portrait.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/springFest.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/springFest.jpg&#34; alt=&#34;Spring fest&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Spring fest&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/springFest.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-&lt;/div&gt;  --&gt;
-
-&lt;!-- &lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;4e8126e72d853c0060001f97&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt; --&gt;
+&lt;!-- &lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;4e8126e72d853c0060001f97&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt; --&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;hong-kong-melbourne-march-2017&#34;&gt;Hong Kong &amp;amp; Melbourne (March 2017)&lt;/h3&gt;
 
@@ -229,6 +139,35 @@
 
 
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 SuperUROP Project</title>
+      <link>https://qandrew.github.io/post/2017_superurop/</link>
+      <pubDate>Mon, 29 May 2017 16:09:12 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/post/2017_superurop/</guid>
+      <description>
+
+&lt;p&gt;For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was &lt;em&gt;Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Having an effective and convenient authentication system
+is necessary for the future development and increased
+usage of devices in the Internet of Things. This
+paper presents the implementation of a pairings-based,
+public key leakage resilient authentication system to
+improve upon current authentication schemes. We have
+developed a pairings library in C, and we have implemented
+software in RISCV assembly that successfully
+implements such authentication scheme on a FPGA,
+demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
+
+&lt;!-- {{&lt;button &#34;hi&#34; &#34;hu&#34; &#34;hu&#34;&gt;}} --&gt;
+
+&lt;p&gt;My paper can be found &lt;a href=&#34;https://qandrew.github.io/files/superUROP.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -461,9 +400,9 @@
 
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
 
-&lt;p&gt;View the &lt;a href=&#34;https://qandrew.github.io/files/mixerseries_proposal.pdf&#34;&gt;proposal document&lt;/a&gt; we wrote to the 2017 Class Council&lt;/p&gt;
+&lt;p&gt;View the &lt;a href=&#34;https://qandrew.github.io/files/mixerseries_proposal.pdf&#34;&gt;&lt;strong&gt;proposal document&lt;/strong&gt;&lt;/a&gt; we wrote to the 2017 Class Council&lt;/p&gt;
 
-&lt;p&gt;View our form &lt;a href=&#34;https://docs.google.com/forms/d/1XnbpaHoILWYE92E3rfoKTKgy0hzQaaQZNhwG7ckSfUE&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;View our form &lt;a href=&#34;https://docs.google.com/forms/d/1XnbpaHoILWYE92E3rfoKTKgy0hzQaaQZNhwG7ckSfUE&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
