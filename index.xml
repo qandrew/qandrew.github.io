@@ -18,12 +18,12 @@
       <guid>https://qandrew.github.io/post/photos/</guid>
       <description>
 
-&lt;!-- # Test --&gt;
+&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
 
 &lt;!-- &lt;script src=&#34;//gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt; --&gt;
 
 &lt;!-- 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qandrew.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+
 &lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
 				&lt;div class=&#34;box&#34;&gt;
 				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
@@ -60,6 +60,17 @@
 				&lt;/div&gt;
 				&lt;div class=&#34;box&#34;&gt;
 				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/chM.png&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/chM.png&#34; alt=&#34;Ch m&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Ch m&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://qandrew.github.io/img/chM.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
 				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/me.jpg&#39;);&#34; &gt;
 				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/me.jpg&#34; alt=&#34;Me&#34; /&gt;
 				    &lt;/div&gt;
@@ -89,6 +100,17 @@
 		          &lt;p&gt;Portrait&lt;/p&gt;
 			      &lt;/figcaption&gt;
 				    &lt;a href=&#34;https://qandrew.github.io/img/portrait.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/springFest.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/springFest.jpg&#34; alt=&#34;Spring fest&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Spring fest&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://qandrew.github.io/img/springFest.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
 				  &lt;/figure&gt;
 				&lt;/div&gt;
 &lt;/div&gt;  --&gt;
@@ -165,17 +187,7 @@
 	  
 
 
-
-&lt;div class=&#34;box&#34; &gt;
-  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/xm3EdkBCQYqX1BNWvTMBjVDxiSWhFLGtk-A3QVT5GK8v0IXlSUR6QhpGUp6-RTR3YDrIBf93HAas8VvFTzTb02KlKBfv_aqvI0Fsjf4pxcvQP2oEextKhNmBgAX7pIX8FLM7gB9xYarIKdFh6WiJYb3vg4ZU8gQvdxLXnuL0TQlDvyBS4TZsJkQXbLzaWKymMUZ6MRZAfw2pQSGNErD-jqe7MBauYZP0jAPIskDm7ehLDDURykxyNgpYkui3-6ObQBbqtMYU4G6NXWU_dvVEmZJyZrI914WHmC4EKTaNUYHzQOwGE8CRGRB08JOv2C1AynFBinghgkwq0smDlWA_f40FYsusHV8t6oB_gc5xBHQt3C62y3WbY7Amin0i7TfZ0PRIQ_seM6e1u-8jCHaDjdp4GepulsUutEmzbgY2xkJVxw5MUvGVkUgs17Jl14p8VSm0Qpz0iOpqUHQNgu6UAfxMqBKUsLGZNLNZw_JUSr_1gYUzjPtZTU8Zz2A4NlxjKGIN0uR5NL2x8unyItIhY9L2NcfFUcF0BodiXJO69dwMS-P1L2_DER7mhU2_Mc6Jq2kPHsNyJzLbpBQ0spdo8NiGWRYuMDX5t0GxR0q7KESs5fAHXhtv=w1480-h991-no&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://lh3.googleusercontent.com/xm3EdkBCQYqX1BNWvTMBjVDxiSWhFLGtk-A3QVT5GK8v0IXlSUR6QhpGUp6-RTR3YDrIBf93HAas8VvFTzTb02KlKBfv_aqvI0Fsjf4pxcvQP2oEextKhNmBgAX7pIX8FLM7gB9xYarIKdFh6WiJYb3vg4ZU8gQvdxLXnuL0TQlDvyBS4TZsJkQXbLzaWKymMUZ6MRZAfw2pQSGNErD-jqe7MBauYZP0jAPIskDm7ehLDDURykxyNgpYkui3-6ObQBbqtMYU4G6NXWU_dvVEmZJyZrI914WHmC4EKTaNUYHzQOwGE8CRGRB08JOv2C1AynFBinghgkwq0smDlWA_f40FYsusHV8t6oB_gc5xBHQt3C62y3WbY7Amin0i7TfZ0PRIQ_seM6e1u-8jCHaDjdp4GepulsUutEmzbgY2xkJVxw5MUvGVkUgs17Jl14p8VSm0Qpz0iOpqUHQNgu6UAfxMqBKUsLGZNLNZw_JUSr_1gYUzjPtZTU8Zz2A4NlxjKGIN0uR5NL2x8unyItIhY9L2NcfFUcF0BodiXJO69dwMS-P1L2_DER7mhU2_Mc6Jq2kPHsNyJzLbpBQ0spdo8NiGWRYuMDX5t0GxR0q7KESs5fAHXhtv=w1480-h991-no&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://lh3.googleusercontent.com/xm3EdkBCQYqX1BNWvTMBjVDxiSWhFLGtk-A3QVT5GK8v0IXlSUR6QhpGUp6-RTR3YDrIBf93HAas8VvFTzTb02KlKBfv_aqvI0Fsjf4pxcvQP2oEextKhNmBgAX7pIX8FLM7gB9xYarIKdFh6WiJYb3vg4ZU8gQvdxLXnuL0TQlDvyBS4TZsJkQXbLzaWKymMUZ6MRZAfw2pQSGNErD-jqe7MBauYZP0jAPIskDm7ehLDDURykxyNgpYkui3-6ObQBbqtMYU4G6NXWU_dvVEmZJyZrI914WHmC4EKTaNUYHzQOwGE8CRGRB08JOv2C1AynFBinghgkwq0smDlWA_f40FYsusHV8t6oB_gc5xBHQt3C62y3WbY7Amin0i7TfZ0PRIQ_seM6e1u-8jCHaDjdp4GepulsUutEmzbgY2xkJVxw5MUvGVkUgs17Jl14p8VSm0Qpz0iOpqUHQNgu6UAfxMqBKUsLGZNLNZw_JUSr_1gYUzjPtZTU8Zz2A4NlxjKGIN0uR5NL2x8unyItIhY9L2NcfFUcF0BodiXJO69dwMS-P1L2_DER7mhU2_Mc6Jq2kPHsNyJzLbpBQ0spdo8NiGWRYuMDX5t0GxR0q7KESs5fAHXhtv=w1480-h991-no&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qandrew.github.io/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/Mttdqu38jNfo5vx0daW1o5zvCIsceVyJbJicUsdfN5Z7E5H5ZZpKjFofNzUyAnLAANNexESUAy5GXD5TqW32NjbgtnZwK5PHchaemgkaxkuqG-Tz3XhovBP9shXb2bmr15sVIDK7onXmCsapVNGwOtv4cchH4vn9SsahMKez5CUr_nSET8AqZeke6PrOPFf55jkUdtXmMkmuLuErkM_Ks2YePnqAGJgEkLlpyTMZOjGt4clTHsQMYLNgW2FF2BcFnEIhZvzCWW_JdA6lhFOZjG3igBgdBXHkszpriB98WFJL2eXaLXiWr18e3AcBYO9rxKgXolTLXXSTHou01RoWkDZnxX4MW-RJvpob5az7VNcMO1okiJq5YlJ83CWlK6OBn7xb0mS3_FDvWxwaR4ZQuJ-QJDTr-1e9TUQYx-w9rjLl5DHEYoh5lwFsCSeeRB2TKrYNSa5Z11NrprLsEXTUCs8RGhTzuUI2qwj_VZGKlRhzOMro7HggBTCesWgCa2khVpemackFB6stnumI0pv349dDBxbZvjeofpK9ff5V6aY-LnfoLNBRZ1CA16QBY_qCAD2Qu_oTXCOYVN0viq8RgG8MKrUx4NkWIjzJod4-nfGN23E4lXrP=s991-no&#39;);&#34;&gt;
@@ -196,7 +208,7 @@
 &lt;/div&gt;
 
 
-&lt;div class=&#34;box&#34; style=&#34;max-width:60%&#34;&gt;
+&lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/K3m8G3pnVbhSiNCEGI3XYsZPuA9zcdblfe-3B6PFrSMEjwm14oihy8pBq4p3ABmsT48wyb14DE09a3gBE2uKHgTNAij6QDBvE6pU1mfZSIeAez1tICXT7H13hjZ7LO228tnSRpozhsvlAr6-lCS9Lo3SQQJ9lp1jUkfvU-jxG-bZVOmj_Qhi5xIe13G-5sXOsBZ0BXH4PtP808OWGtwG038Y7rGyyYBzd--AN4_EWCg5mh9Gs4PgolHrspDlE_LF4E4oDQcgS24ojp_xfHH0CafaZsGd4q3gFfVpCcLWXEmPCDyUQR89zVZ80drrwy8LS107G56kfIdwF8wCiqffXVFie4AiB3IFO-J8P4YKVMe8weiUC84cEoB1RtB1Y4J3QSWilaVQwNzFA8FVYu59RLINVXErNXD7FqtfNxdTrJeaZi-DAeeJ2ohXb1OhPNBll8gK6Hn7R3yGaYh8Dv6c6T6oGxSd_8d6dEPkSo3Kl1u5fQM4dOMh9ollx_gqt7P-9VgXbqupPt00x9xWbEUM_1SfdayCboMS7ncg-nRELd_4CTyX7rBrtlfsDqvMxazn-L7hh7RnCk9EThZ9QxYbRMX2JPeHyx7NqFiA-VFD3KfNNeSyWhvD=w1484-h991-no&#39;);&#34;&gt;
       &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://lh3.googleusercontent.com/K3m8G3pnVbhSiNCEGI3XYsZPuA9zcdblfe-3B6PFrSMEjwm14oihy8pBq4p3ABmsT48wyb14DE09a3gBE2uKHgTNAij6QDBvE6pU1mfZSIeAez1tICXT7H13hjZ7LO228tnSRpozhsvlAr6-lCS9Lo3SQQJ9lp1jUkfvU-jxG-bZVOmj_Qhi5xIe13G-5sXOsBZ0BXH4PtP808OWGtwG038Y7rGyyYBzd--AN4_EWCg5mh9Gs4PgolHrspDlE_LF4E4oDQcgS24ojp_xfHH0CafaZsGd4q3gFfVpCcLWXEmPCDyUQR89zVZ80drrwy8LS107G56kfIdwF8wCiqffXVFie4AiB3IFO-J8P4YKVMe8weiUC84cEoB1RtB1Y4J3QSWilaVQwNzFA8FVYu59RLINVXErNXD7FqtfNxdTrJeaZi-DAeeJ2ohXb1OhPNBll8gK6Hn7R3yGaYh8Dv6c6T6oGxSd_8d6dEPkSo3Kl1u5fQM4dOMh9ollx_gqt7P-9VgXbqupPt00x9xWbEUM_1SfdayCboMS7ncg-nRELd_4CTyX7rBrtlfsDqvMxazn-L7hh7RnCk9EThZ9QxYbRMX2JPeHyx7NqFiA-VFD3KfNNeSyWhvD=w1484-h991-no&#34; /&gt;
@@ -206,9 +218,17 @@
 &lt;/div&gt;
 
 
-&lt;/div&gt;&lt;/p&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/hmtamS3U1JYBLkreyqMF6CC0Ljs9FNTmNnUglvckHku2DhZz9uQLmwsYZ8Vm1HIlHhTXXNRzTk8zgYwGOHTQQOv2XXHjoVgMCKrOw6ihSvuQv8qMremNCeJy7VLSaHDDhcD4sOzNZTvo2mr6ku5Up1d2jf0lrY02-8BqKtRfuafaPnotBjs7sjyPEcx-8bTnBChhVYLPHVT-PvqwgAJwTaM8267eO7eEu4i6sljQZzgDLVBWL-xuDHcYP6P7f9RMzPZ7MK63agMZi4Ri44xAEdqYMb_0diEQYcWuUxtdL0TnAW-VMwL7083ERuDWWA0mgUBM5SRGqVCnSAKh70aZOYtgfLXg0_PAiRqYLROD71_JYO1AXasn5FE5YuQqib2ENeJDwT695S5Rtzo2dpFnfxtOs3OINVUR38QD60tcRmQA5mQ-xtUC0NXr2XG_r__3BlsPCY9H_a_06B_lp8bXGGqqynX7v9KiLlBZ3u8A8NBAN062lJbsbT46Vn0sqDn8UJMXTFUmttcFnjuJhh1RoFofBC6VFWqGn9TmUPN6tN8DwDptLwhdSqxRy8_Gy2bEVaSpCPjIBexpXlbDmC1RV5h_jO5QfnPfDpGKnC6lHZsw4faCXdbT=w1484-h991-no&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://lh3.googleusercontent.com/hmtamS3U1JYBLkreyqMF6CC0Ljs9FNTmNnUglvckHku2DhZz9uQLmwsYZ8Vm1HIlHhTXXNRzTk8zgYwGOHTQQOv2XXHjoVgMCKrOw6ihSvuQv8qMremNCeJy7VLSaHDDhcD4sOzNZTvo2mr6ku5Up1d2jf0lrY02-8BqKtRfuafaPnotBjs7sjyPEcx-8bTnBChhVYLPHVT-PvqwgAJwTaM8267eO7eEu4i6sljQZzgDLVBWL-xuDHcYP6P7f9RMzPZ7MK63agMZi4Ri44xAEdqYMb_0diEQYcWuUxtdL0TnAW-VMwL7083ERuDWWA0mgUBM5SRGqVCnSAKh70aZOYtgfLXg0_PAiRqYLROD71_JYO1AXasn5FE5YuQqib2ENeJDwT695S5Rtzo2dpFnfxtOs3OINVUR38QD60tcRmQA5mQ-xtUC0NXr2XG_r__3BlsPCY9H_a_06B_lp8bXGGqqynX7v9KiLlBZ3u8A8NBAN062lJbsbT46Vn0sqDn8UJMXTFUmttcFnjuJhh1RoFofBC6VFWqGn9TmUPN6tN8DwDptLwhdSqxRy8_Gy2bEVaSpCPjIBexpXlbDmC1RV5h_jO5QfnPfDpGKnC6lHZsw4faCXdbT=w1484-h991-no&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://lh3.googleusercontent.com/hmtamS3U1JYBLkreyqMF6CC0Ljs9FNTmNnUglvckHku2DhZz9uQLmwsYZ8Vm1HIlHhTXXNRzTk8zgYwGOHTQQOv2XXHjoVgMCKrOw6ihSvuQv8qMremNCeJy7VLSaHDDhcD4sOzNZTvo2mr6ku5Up1d2jf0lrY02-8BqKtRfuafaPnotBjs7sjyPEcx-8bTnBChhVYLPHVT-PvqwgAJwTaM8267eO7eEu4i6sljQZzgDLVBWL-xuDHcYP6P7f9RMzPZ7MK63agMZi4Ri44xAEdqYMb_0diEQYcWuUxtdL0TnAW-VMwL7083ERuDWWA0mgUBM5SRGqVCnSAKh70aZOYtgfLXg0_PAiRqYLROD71_JYO1AXasn5FE5YuQqib2ENeJDwT695S5Rtzo2dpFnfxtOs3OINVUR38QD60tcRmQA5mQ-xtUC0NXr2XG_r__3BlsPCY9H_a_06B_lp8bXGGqqynX7v9KiLlBZ3u8A8NBAN062lJbsbT46Vn0sqDn8UJMXTFUmttcFnjuJhh1RoFofBC6VFWqGn9TmUPN6tN8DwDptLwhdSqxRy8_Gy2bEVaSpCPjIBexpXlbDmC1RV5h_jO5QfnPfDpGKnC6lHZsw4faCXdbT=w1484-h991-no&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello&lt;/p&gt;
+
+&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -231,7 +251,30 @@
     </item>
     
     <item>
-      <title>Summer 2016 Vlog</title>
+      <title>Hack Punt Tool</title>
+      <link>https://qandrew.github.io/post/htp/</link>
+      <pubDate>Thu, 18 May 2017 06:47:13 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/post/htp/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Along with MIT Student Cable, I helped film MIT&amp;rsquo;s Musical Theater Guild (&lt;a href=&#34;http://www.mit.edu/~mtg/&#34; target=&#34;_blank&#34;&gt;MTG&lt;/a&gt;)&amp;rsquo;s IAP 2017 production of &lt;em&gt;Hack, Punt, Tool&lt;/em&gt;, which is an original musical about a fictional group of MIT students working on building a Hack at MIT.&lt;/p&gt;
+
+&lt;p&gt;Please enjoy the video below!
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/IPpqXyo4jhM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The lenses we used included a Nikon 70-200mm f2.8, Panasonic 7-14mm f4.0.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer 2016 Vlogs</title>
       <link>https://qandrew.github.io/post/2016_videos/</link>
       <pubDate>Tue, 28 Jun 2016 06:47:13 -0400</pubDate>
       

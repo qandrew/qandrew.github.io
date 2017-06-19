@@ -21,7 +21,7 @@
 }
 
 html {
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', serif;
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
@@ -204,7 +204,7 @@ blockquote p:last-child {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
+  padding: 20px 0 5px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
 }
@@ -219,7 +219,7 @@ blockquote p:last-child {
 
 @media screen and (max-width: 768px) {
   .home-section {
-    padding: 60px 0 60px 0;
+    padding: 20px 0 20px 0;
   }
   .home-section:first-of-type {
     padding-top: 40px;
@@ -390,13 +390,33 @@ article {
 .article-header {
   position: relative;
   clear: both;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.article-pic {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  overflow:hidden;
+  max-height:300px;
+}
+
+.article-pic img {
+  /* corrects inline gap in enclosing div */
+  display: block;
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  width: auto\9; /* ie8+9 */
+  /* lt ie8 */
+  -ms-interpolation-mode: bicubic; 
 }
 
 .article-banner {
   width: 100%;
   /*height: auto;*/
-  position:relative;
-  max-height: 400px; /* max height for images on blog post*/
+  /*position:relative;*/
+  /*max-height: 600px;  max height for images on blog post*/
   /*line-height: 200px;*/
   overflow: hidden;
   /*padding-bottom: 75%;*/
@@ -410,6 +430,17 @@ article {
   -o-background-size: cover;
   margin-bottom: 50px;*/
 
+}
+
+.article-banner img {
+  /* corrects inline gap in enclosing div */
+  display: block;
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  width: auto\9; /* ie8+9 */
+  /* lt ie8 */
+  -ms-interpolation-mode: bicubic; 
 }
 
 .article-header-caption {
@@ -463,7 +494,7 @@ article {
 }
 
 .article-list-item {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .article-list-item:last-child {
@@ -486,7 +517,7 @@ article {
   margin-left: auto;
   margin-right: auto;
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding-left: 0;
   padding-right: 0;
 }
