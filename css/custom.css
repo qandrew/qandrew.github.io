@@ -1,4 +1,4 @@
-/*************************************************
+************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
@@ -28,7 +28,7 @@ html {
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -37,7 +37,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  margin-top: 71px; /* Offset body content by navbar height. */
+  margin-top: 51px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
@@ -51,6 +51,7 @@ body {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  /*color: #000;*/
 }
 
 /* Lists */
@@ -94,9 +95,18 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+hr { 
+    display: block;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
 a,
 h3.article-title a:hover {
-  color: #808080; /*href link*/
+  color: #343e4f; /*href link*/
   text-decoration: none;
   transition: color 0.6s ease;
 }
@@ -179,10 +189,12 @@ blockquote p:last-child {
 
 .universal-wrapper {
   margin: 0 auto;
+  padding-top: 30px;
   padding-right: 15px;
   padding-left: 15px;
   width: 100%;
 }
+
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
     width: 1000px;
@@ -210,7 +222,7 @@ blockquote p:last-child {
 }
 
 .home-section:first-of-type {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .home-section:nth-of-type(even) {
@@ -390,13 +402,38 @@ article {
 .article-header {
   position: relative;
   clear: both;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.article-pic {
+  margin-top: 30px !important;
+  margin-bottom: 0px !important;
+  overflow:hidden;
+  max-height:300px;
+}
+
+.article-pic img {
+  /* corrects inline gap in enclosing div */
+  display: block;
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  width: auto\9; /* ie8+9 */
+  /* lt ie8 */
+  -ms-interpolation-mode: bicubic; 
+}
+
+.article-background:nth-of-type(odd) {
+  /*doesn't actually look nice*/
+  /*background-color: rgb(230, 230, 230);*/
 }
 
 .article-banner {
   width: 100%;
   /*height: auto;*/
-  position:relative;
-  max-height: 400px; /* max height for images on blog post*/
+  /*position:relative;*/
+  /*max-height: 600px;  max height for images on blog post*/
   /*line-height: 200px;*/
   overflow: hidden;
   /*padding-bottom: 75%;*/
@@ -410,6 +447,17 @@ article {
   -o-background-size: cover;
   margin-bottom: 50px;*/
 
+}
+
+.article-banner img {
+  /* corrects inline gap in enclosing div */
+  display: block;
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  width: auto\9; /* ie8+9 */
+  /* lt ie8 */
+  -ms-interpolation-mode: bicubic; 
 }
 
 .article-header-caption {
@@ -486,7 +534,7 @@ article {
   margin-left: auto;
   margin-right: auto;
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding-left: 0;
   padding-right: 0;
 }
@@ -849,7 +897,7 @@ footer a i {
  **************************************************/
 
 .navbar {
-  min-height: 70px !important;
+  min-height: 30px !important;
 }
 
 .navbar-default {
@@ -861,6 +909,25 @@ nav#navbar-main li {
   font-size: 16px;
 }
 
+.navbar-default .btn{
+  background: #fff;
+  border:0px solid transparent; /* this was 1px earlier */
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  color: #787878;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+  height: inherit;
+  line-height: 30px;
+  /*padding-top: 7px;*/
+  /*padding-top: 0px*/
+  display: block;
+  padding: 10px 20px;
+}
+
+.navbar-default .btn:focus,
+.navbar-default .btn:hover,
 .navbar-default .navbar-nav>li>a,
 .navbar-default .navbar-nav>a:focus,
 .navbar-default .navbar-nav>a:hover {
@@ -871,25 +938,42 @@ nav#navbar-main li {
   font-weight: 600;
 }
 
+.navbar-default .btn:focus,
+.navbar-default .btn:hover{
+  color:#000;
+}
+
+.navbar-default .btn:focus,
+.navbar-default .btn:hover,
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
   /*color: #0095eb;*/
   font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
+  background-color: transparent !important;  Override Bootstrap. 
 }
 
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
-  line-height: 50px;
+  line-height: 30px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  /*padding-bottom: 10px;*/
+  /*padding: 10px 10px 10px 0px;*/
+}
+
+.navbar-last li{
+ padding: 0px 0px 0px 0px !important; 
+}
+
+
+.dropdown-menu {
+  box-shadow: none;
 }
 
 .dropdown-menu > li > a {
   display: block;
-  padding: 3px 20px;
+  padding: 10px 20px;
   clear: both;
   font-weight: 400;
   line-height: 1.42857143;
@@ -909,7 +993,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand { /* ANDREW XIA */
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #2b2b2b;
 }
 
@@ -1122,3 +1206,12 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+
+
+/* Bootstrap */
+
+/* change dropdown to hover from click */
+/*.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /*remove the gap so it doesn't close
+ }*/
