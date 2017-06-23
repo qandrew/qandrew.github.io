@@ -11,14 +11,14 @@
     <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>2017 SuperUROP Project</title>
+      <title>Leakage Resilient Public Key Authentication for Embedded Devices</title>
       <link>https://qandrew.github.io/post/2017_superurop/</link>
       <pubDate>Mon, 29 May 2017 16:09:12 -0400</pubDate>
       
       <guid>https://qandrew.github.io/post/2017_superurop/</guid>
       <description>
 
-&lt;p&gt;For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was &lt;em&gt;Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was &lt;em&gt;Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices&lt;/em&gt;, working with &lt;a href=&#34;http://chiraag.scripts.mit.edu/wiki/start&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Chiraag Juvekar&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://www-mtl.mit.edu/~anantha/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Prof. Anantha Chandrakasan&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 
@@ -38,7 +38,7 @@ demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
     </item>
     
     <item>
-      <title>6.824 Final Project: ORGanized Interactions</title>
+      <title>ORGanized Interactions</title>
       <link>https://qandrew.github.io/post/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
       
@@ -49,14 +49,36 @@ demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
 
 &lt;p&gt;For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.&lt;/p&gt;
 
-&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://qandrew.github.io/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://qandrew.github.io/files/6.824.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>6.115 Final Project: 3D Tic Tac Toe</title>
+      <title>Learning Digits via Audio-Visual Representations</title>
+      <link>https://qandrew.github.io/post/6.867/</link>
+      <pubDate>Sun, 18 Dec 2016 06:46:36 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/post/6.867/</guid>
+      <description>
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Our goal is to explore models for language learning (in this case learning numerical digits in their spoken and visual representations) in the manner that humans learn languages as children. Namely, children do not have intermediary text transcriptions in corresponding visual and audio inputs from the world around them; rather, they directly make connections between what they see and what they hear. In this paper, we construct models for the direct bi-directional classification of speech and images, inspired by a few research papers. We experiment with architectures of two convolutional neural networks, one on the TIDIGITS data set (audio) and the other on the MNIST data set (visual), to obtain joint representations of single digits from spoken utterances and images. Finally, we experiment with an alignment model that ties together the convnets to learn these joint representations. We report an overall image annotation accuracy of 88.5% and an overall image retrieval accuracy of 87.6%.&lt;/p&gt;
+
+&lt;h3 id=&#34;links-notes&#34;&gt;Links &amp;amp; Notes&lt;/h3&gt;
+
+&lt;p&gt;I worked with Sitara Persad and Karan Kashyap on this final project.&lt;/p&gt;
+
+&lt;p&gt;See our paper writeup &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project/blob/master/6_867_Project_Writeup.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our GitHub repository for the project is available &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Tic Tac Toe AI</title>
       <link>https://qandrew.github.io/post/6.115/</link>
       <pubDate>Sat, 28 May 2016 06:46:36 -0400</pubDate>
       
@@ -75,12 +97,14 @@ demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
 
 &lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
 
-&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/qandrew/6.115-final-project&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/qandrew/6.115-final-project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My lab notebook writeup for the project can be found &lt;a href=&#34;https://github.com/qandrew/6.115-final-project/blob/master/Lab%20Notebook/Lab%20Notebook.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>6.854 Lecture Videos</title>
+      <title>6.854 Advanced Algorithms Lecture Videos</title>
       <link>https://qandrew.github.io/post/6.854/</link>
       <pubDate>Wed, 18 May 2016 06:46:36 -0400</pubDate>
       
