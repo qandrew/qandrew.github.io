@@ -391,6 +391,28 @@ demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Probabilistic Lightning</title>
+      <link>https://qandrew.github.io/post/6.857/</link>
+      <pubDate>Sun, 28 May 2017 06:46:36 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/post/6.857/</guid>
+      <description>
+
+&lt;p&gt;For our 6.857 (network security) final project, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/6857_lit.png&#34; alt=&#34;Lit&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;boards.jpg&#34; alt=&#34;Boards&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
+
+&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/jbloxham/lit&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our final writeup can be found &lt;a href=&#34;https://pdfs.semanticscholar.org/9be2/024e080adfaf545c7efae3a5114056e5cef3.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ORGanized Interactions</title>
       <link>https://qandrew.github.io/post/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
