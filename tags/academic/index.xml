@@ -6,7 +6,7 @@
     <description>Recent content in Academic on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrew Xia</copyright>
+    <copyright>&amp;copy; 2018 Andrew Xia</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
     
@@ -45,11 +45,9 @@ demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
       <guid>https://qandrew.github.io/post/6.857/</guid>
       <description>
 
-&lt;p&gt;For our 6.857 (network security) final project, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.&lt;/p&gt;
+&lt;p&gt;For our &lt;a href=&#34;http://courses.csail.mit.edu/6.857/2017/&#34; target=&#34;_blank&#34;&gt;6.857 (network security)&lt;/a&gt; final project, in a group project with Jamie Bloxham, Gina Yuan, and Justine Jang, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/6857_lit.png&#34; alt=&#34;Lit&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;boards.jpg&#34; alt=&#34;Boards&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://qandrew.github.io/img/6857_lit.png&#34; alt=&#34;Lit&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
 
