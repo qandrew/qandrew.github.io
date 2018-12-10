@@ -23,7 +23,7 @@
 &lt;!-- &lt;script src=&#34;//gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt; --&gt;
 
 &lt;!-- 
-
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qandrew.github.io/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;  --&gt;
 
 &lt;!-- &lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;4e8126e72d853c0060001f97&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt; --&gt;
@@ -98,7 +98,7 @@
 	  
 
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qandrew.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/Mttdqu38jNfo5vx0daW1o5zvCIsceVyJbJicUsdfN5Z7E5H5ZZpKjFofNzUyAnLAANNexESUAy5GXD5TqW32NjbgtnZwK5PHchaemgkaxkuqG-Tz3XhovBP9shXb2bmr15sVIDK7onXmCsapVNGwOtv4cchH4vn9SsahMKez5CUr_nSET8AqZeke6PrOPFf55jkUdtXmMkmuLuErkM_Ks2YePnqAGJgEkLlpyTMZOjGt4clTHsQMYLNgW2FF2BcFnEIhZvzCWW_JdA6lhFOZjG3igBgdBXHkszpriB98WFJL2eXaLXiWr18e3AcBYO9rxKgXolTLXXSTHou01RoWkDZnxX4MW-RJvpob5az7VNcMO1okiJq5YlJ83CWlK6OBn7xb0mS3_FDvWxwaR4ZQuJ-QJDTr-1e9TUQYx-w9rjLl5DHEYoh5lwFsCSeeRB2TKrYNSa5Z11NrprLsEXTUCs8RGhTzuUI2qwj_VZGKlRhzOMro7HggBTCesWgCa2khVpemackFB6stnumI0pv349dDBxbZvjeofpK9ff5V6aY-LnfoLNBRZ1CA16QBY_qCAD2Qu_oTXCOYVN0viq8RgG8MKrUx4NkWIjzJod4-nfGN23E4lXrP=s991-no&#39;);&#34;&gt;
