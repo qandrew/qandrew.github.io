@@ -1,457 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Andrew Xia</title>
-    <link>https://qandrew.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Andrew Xia</description>
+    <title>blog on Andrew Xia</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in blog on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrew Xia</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/blog/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
+    <lastBuildDate>Sun, 16 Dec 2018 06:46:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hiking in 2018</title>
+      <link>/post/hiking/</link>
+      <pubDate>Sun, 16 Dec 2018 06:46:36 -0400</pubDate>
+      
+      <guid>/post/hiking/</guid>
+      <description>I should probably be writing my thesis for my MEng, but I&amp;rsquo;ll start off kindling the writing part of my mind by procrastinating for a bit.
+In the past year after I completed my undergraduate degree, I&amp;rsquo;ve been slowing spending more time finding more about who I am. During the MIT undergraduate semesters, which was one of the best times of my life, I had a lot on my plate, from rushing problem set deadline to photography event to party &amp;ndash;it was the work-hard, play-hard lifestyle.</description>
+    </item>
     
     <item>
       <title>August 2018 Articles</title>
-      <link>https://qandrew.github.io/post/2018_08_links/</link>
+      <link>/post/2018_08_links/</link>
       <pubDate>Mon, 03 Sep 2018 11:50:20 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/2018_08_links/</guid>
-      <description>
-
-&lt;p&gt;I keep a journal entry to write down my thoughts and also my day to day life (who I hang out with, where I eat etc), though recently I decided to also start keeping track of my digital history, a series of links of articles / websites that I&amp;rsquo;ve found interesting. Here are some that I&amp;rsquo;d like to share.&lt;/p&gt;
-
-&lt;h2 id=&#34;transit-articles&#34;&gt;Transit Articles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/&#34; target=&#34;_blank&#34;&gt;Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story. - CityLab&lt;/a&gt;: this is a good CityLab article about the history of public transit in the US, it&amp;rsquo;s rise in the early 20th century, and its demise as automobiles became more prevalent in this country in the ensuing decades.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vox.com/2018/8/27/17676670/electric-scooter-rental-bird-lime-skip-spin-cities&#34; target=&#34;_blank&#34;&gt;Electric scooters: why Bird, Lime, Skip, and Spin are taking over cities - Vox&lt;/a&gt;: Dockless bikes, electric scooters, and even electric mopeds are coming soon to your city! This article is a nice intro/summary about this new transit medium.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yH8tqrnvNQE&amp;amp;t=71s&amp;amp;list=WL&amp;amp;index=29&#34; target=&#34;_blank&#34;&gt;Predicting Intersection Signal Timing (Youtube)&lt;/a&gt;: A Simons Institute Lecture on how traffic signals work and the technical details behind the scene.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5Bi6hbbzl-E&#34; target=&#34;_blank&#34;&gt;Extreme poverty in China: Only 3 kids left in a shrinking Chinese village (Youtube)&lt;/a&gt;: here is an interesting video that shows the countryside of China. While when tourists visit China, they may be mesmerized by China&amp;rsquo;s world-class high speed rail, or the tremendous development in cities in the past few decades, it is worth noting that there are still regions in China that struggle with poverty.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;athletics&#34;&gt;Athletics&lt;/h2&gt;
-
-&lt;p&gt;My goal for this fall is to complete a half marathon, and to have a good cycling routine. Cycling a lot this summer has helped me build my endurance. Here are some relevant articles / videos that may be inspiring:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.buzzfeed.com/michellekhare/i-went-from-hating-running-to-running-a-marathon-in-ten?utm_term=.clWGwBPQb#.aeVKp2j6E&#34; target=&#34;_blank&#34;&gt;I Ran A Marathon With Only Ten Weeks Of Training And It Was Intense (YouTube)&lt;/a&gt;: here is a BuzzFeed video on training for a half marathon. Though cliche in certain aspects, I did find it inspiring (and how does she claim to be bad at long distance running if she ends up qualifying for the Boston Marathon 🤔)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zenlabsfitness.com/7-different-types-of-running-to-do/&#34; target=&#34;_blank&#34;&gt;Try These 7 Different Types of Running Workouts! (Beginner to Advanced)&lt;/a&gt;: different types of runs (beyond simply doing long, endurance runs) that might be good for running training. I&amp;rsquo;m a novice runner, so there&amp;rsquo;s a lot to learn for me!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.wahoofitness.com/the-ultimate-guide-for-tracking-your-cycling-heart-rate/&#34; target=&#34;_blank&#34;&gt;The Ultimate Guide for Tracking Your Cycling Heart Rate | Wahoo Fitness&lt;/a&gt;: An article about different heart rate zones that cyclists (and runners) should consider when training.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pitchfork.com/best/&#34; target=&#34;_blank&#34;&gt;Best New Music | Pitchfork&lt;/a&gt;: I recently discovered this website! It does album reviews which has helped me discover more music.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@lenjibin/why-crazy-rich-asians-is-important-to-me-8a59cada7c98&#34; target=&#34;_blank&#34;&gt;Why Crazy Rich Asians is Important — to me – Benji Lin – Medium&lt;/a&gt;: My friend Benji wrote a summary about watching Crazy Rich Asians.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.realclearpolitics.com/&#34; target=&#34;_blank&#34;&gt;RealClearPolitics - Opinion, News, Analysis, Video and Polls&lt;/a&gt;: Recommended by my friend Hongyi, this is a website that aggregates news about politics, seemingly the equivalent to HackerNews for tech.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Hope these are interesting for you to read too! If you have any thoughts on these topics, I&amp;rsquo;d love to discuss too! I should cite &lt;a href=&#34;https://lycarter.com&#34; target=&#34;_blank&#34;&gt;Landon Carter&lt;/a&gt; as an inspiration for this blog post format.&lt;/p&gt;
-</description>
+      <guid>/post/2018_08_links/</guid>
+      <description>I keep a journal entry to write down my thoughts and also my day to day life (who I hang out with, where I eat etc), though recently I decided to also start keeping track of my digital history, a series of links of articles / websites that I&amp;rsquo;ve found interesting. Here are some that I&amp;rsquo;d like to share.
+Transit Articles  Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story.</description>
     </item>
     
     <item>
       <title>Thoughts on Urban Planning and Such</title>
-      <link>https://qandrew.github.io/post/2018_urban/</link>
+      <link>/post/2018_urban/</link>
       <pubDate>Tue, 26 Jun 2018 11:50:20 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/2018_urban/</guid>
-      <description>
-
-&lt;p&gt;Hello, and I guess I am back to [attempting to] blogging. I thought I&amp;rsquo;d try to consolidate my thoughts and interests on urban planning and related topics in this blog post. Growing up, I&amp;rsquo;ve always had an interest in transportation related topics. Whether it be city planning, trains (mass transit or high-speed rail), airplanes, or cars, my interests have drifted in and out of these areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://qandrew.github.io/img/2017_tube.jpg&#34; alt=&#34;tube&#34; /&gt;
-&lt;center&gt;&lt;em&gt;Clapham North, one of the two remaining stations in the London Underground with a true deep-tube island platform. July, 2017&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve always found this topic very fascinating, probably due to growing up in big cities like Tokyo. Though I am a computer scientist by training, I&amp;rsquo;m hoping that I will find some area in the future where I can apply my computer science skillset in this domain. I find work by the &lt;a href=&#34;http://senseable.mit.edu/&#34; target=&#34;_blank&#34;&gt;Senseable City Lab&lt;/a&gt; or research by people like &lt;a href=&#34;http://wucathy.com/blog/&#34; target=&#34;_blank&#34;&gt;Cathy Wu&lt;/a&gt; to be very inspiring. Industry options like &lt;a href=&#34;https://www.sidewalklabs.com/&#34; target=&#34;_blank&#34;&gt;Sidewalk Labs&lt;/a&gt; or &lt;a href=&#34;https://getcruise.com/&#34; target=&#34;_blank&#34;&gt;Cruise &lt;/a&gt; are places that I may wish to work at in the future.&lt;/p&gt;
-
-&lt;p&gt;That said, while I am not working on my research, I do spend time reading and thinking about these topics. Below are a series of links that I&amp;rsquo;ve enjoyed following and reading.&lt;/p&gt;
-
-&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
-
-&lt;p&gt;Here are some blogs that I follow (somewhat regularly):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pedestrianobservations.com/&#34; target=&#34;_blank&#34;&gt;Pedestrian Observations&lt;/a&gt;: This is a blog I found some time ago that provides a lot of detailed analysis on cities and their transit planning options.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://citylab.com&#34; target=&#34;_blank&#34;&gt;CityLab&lt;/a&gt;: This is a news site run by the Atlantic which contains a lot of interesting posts about city-related topics.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/whatwouldjanejacobsdo/&#34; target=&#34;_blank&#34;&gt;New-Urbanist Memes for Transit Oriented Teens&lt;/a&gt;: This is the classic high-traffic Facebook group consisting of a healthy mix of transit-related memes and fruitful discussion. (&lt;a href=&#34;https://en.wikipedia.org/wiki/New_Urbanist_Memes_for_Transit-Oriented_Teens&#34; target=&#34;_blank&#34;&gt;wiki&lt;/a&gt;). There are derivative groups that focus on bicycles, aircrafts, and other topics.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://yelling-at-trains.org/&#34; target=&#34;_blank&#34;&gt;Yelling at Trains&lt;/a&gt;: This is run by my friend Ian Reynolds, who had his live map of the Boston MBTA featured on &lt;a href=&#34;https://www.bostonglobe.com/metro/2015/09/25/mit-student-builds-real-time-mbta-map-into-wall-using-led-lights/Jizvo3C8iqs64kcgbJRR5N/story.html&#34; target=&#34;_blank&#34;&gt;the Boston Globe&lt;/a&gt;!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;airplane-related-resources&#34;&gt;Airplane Related Resources&lt;/h3&gt;
-
-&lt;p&gt;I&amp;rsquo;d say that I am currently (c.2018) in a lull in terms of my aviation interests. In late 2017 I was paying close attention to United&amp;rsquo;s Boeing 747 retirement event. I was interning in the San Francisco Bay Area, where the last of the Boeing 747s were based, and in my twelve weeks in the bay area I probably visited San Francisco International Airport about ten times. Evan Yao and I were able to attend the &lt;a href=&#34;https://thepointsguy.com/2017/10/united-747-family-day/&#34; target=&#34;_blank&#34;&gt;United&amp;rsquo;s 747 Farewell Family Day&lt;/a&gt;, through winning a twitter sweepstakes hosted by ThePointsGuy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://qandrew.github.io/img/2017_747.jpg&#34; alt=&#34;tube&#34; /&gt;
-&lt;center&gt;&lt;em&gt;The last international flight of United&amp;rsquo;s 747 Friend Ship, UA892, landing. October, 2017&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;That said, there are probably a lot more interesting topics about airplanes. &lt;a href=&#34;https://skift.com/&#34; target=&#34;_blank&#34;&gt;Skift&lt;/a&gt; and &lt;a href=&#34;https://centreforaviation.com/&#34; target=&#34;_blank&#34;&gt;CAPA&lt;/a&gt; provide interesting analysis on the business or product side of the aviation industry. For travel blogs or tips on churning, I defer to &lt;a href=&#34;https://www.flyertalk.com/&#34; target=&#34;_blank&#34;&gt;FlyerTalk&lt;/a&gt;, &lt;a href=&#34;http://onemileatatime.boardingarea.com&#34; target=&#34;_blank&#34;&gt;OneMileAtATime&lt;/a&gt;, and &lt;a href=&#34;https://thepointsguy.com/&#34; target=&#34;_blank&#34;&gt;ThePointsGuy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To follow airplanes in particular, I use &lt;a href=&#34;https://planespotters.net&#34; target=&#34;_blank&#34;&gt;Planespotters&lt;/a&gt; to look up airplane inventory. &lt;a href=&#34;https://www.flightradar24.com&#34; target=&#34;_blank&#34;&gt;FlightRadar24&lt;/a&gt; is my go to for tracking flights or airplanes. Certain airplanes, such as the Lufthansa 747-8I retrojet (&lt;a href=&#34;https://www.planespotters.net/airframe/Boeing/747/D-ABYT-Lufthansa/4XRZHqQN&#34; target=&#34;_blank&#34;&gt;D-ABYT&lt;/a&gt;) or the ANA 787-9 Star Wars Jet (&lt;a href=&#34;https://www.planespotters.net/airframe/Boeing/787/JA873A-All-Nippon-Airways/AeRQTe1R&#34; target=&#34;_blank&#34;&gt;JA873A&lt;/a&gt;) deserve special attention!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://qandrew.github.io/img/2016_787.jpg&#34; alt=&#34;tube&#34; /&gt;
-&lt;center&gt;&lt;em&gt;ANA&amp;rsquo;s Star Wars Jet, a Boeing 787-9 Dreamliner. January, 2016&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;on-the-academic-note&#34;&gt;On the Academic Note&lt;/h3&gt;
-
-&lt;p&gt;As I am currently a masters student doing graduate research, one thing I&amp;rsquo;ve also been thinking about is what area I could get in to work on these problems. Maybe working on railway scheduling problems or algorithms to design traffic intersections in the advent of self driving cars would be interesting. To this note, I&amp;rsquo;ve also been working in what direction I can head in the future. On the more policy or design-oriented field would be Urban Studies, such as MIT&amp;rsquo;s department of Urban Studies and Planning. There is also work in the Civil and Environmental Engineering Departments, and Operations Research is also an area where research is done in this area. Finally, controls and algorithms will be useful for these problems, to which Computer Science departments may also have work in this area. I came across the Simons Institute Spring 2018 &lt;a href=&#34;https://simons.berkeley.edu/programs/realtime2018&#34; target=&#34;_blank&#34;&gt;Real Time Decision Making Program&lt;/a&gt; which may have interesting leads for academic directions one may want to pursue. I also apologize in advance for my lack of understanding in this field.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Finally, if you do happen to stumble across this blog, please get in contact with me as I love talking about these things! If there are any other links / sites that I&amp;rsquo;ve missed, let me know too.&lt;/p&gt;
-</description>
+      <guid>/post/2018_urban/</guid>
+      <description>Hello, and I guess I am back to [attempting to] blogging. I thought I&amp;rsquo;d try to consolidate my thoughts and interests on urban planning and related topics in this blog post. Growing up, I&amp;rsquo;ve always had an interest in transportation related topics. Whether it be city planning, trains (mass transit or high-speed rail), airplanes, or cars, my interests have drifted in and out of these areas.
+Clapham North, one of the two remaining stations in the London Underground with a true deep-tube island platform.</description>
     </item>
     
     <item>
       <title>Tips on Basic Financial Management</title>
-      <link>https://qandrew.github.io/post/moneybasics/</link>
+      <link>/post/moneybasics/</link>
       <pubDate>Sun, 20 Aug 2017 14:19:42 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/moneybasics/</guid>
-      <description>
-
-&lt;p&gt;Continuing from my previous post &lt;a href=&#34;../creditcard&#34;&gt;on credit cards&lt;/a&gt;, I&amp;rsquo;ll detail some of my money management habits that might be helpful for others.&lt;/p&gt;
-
-&lt;p&gt;Here, I&amp;rsquo;ll talk about opening bank accounts, maximizing rewards, and some basic investment tips.&lt;/p&gt;
-
-&lt;h2 id=&#34;bank-accounts&#34;&gt;Bank Accounts&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Open a savings account like &lt;a href=&#34;https://www.gsbank.com/savings-products/online-savings.html?cmpid=ps-GSB-rGGLgsONLNlsa6354327&#34; target=&#34;_blank&#34;&gt;GS Bank&lt;/a&gt; and earn 1.2% interest every year.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cdn.thewirecutter.com/wp-content/uploads/2017/08/cash-back-credit-card-2x1-fullres-2-1024x512.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you do not have a bank account, I would definitely recommend getting one. It&amp;rsquo;s nice to have money stored in a bank rather than having to carry cash around, make purchases on the internet, and certain banks also offer nice interest rates so your money will grow by just sitting there.&lt;/p&gt;
-
-&lt;p&gt;There are two main types of bank accounts.&lt;/p&gt;
-
-&lt;p&gt;The first, a &lt;strong&gt;checkings account&lt;/strong&gt; is essentially a digital wallet. Your checkings account will usually come with a &lt;strong&gt;debit card&lt;/strong&gt; that you can use to spend from your checkings account. Usually checkings accounts do not offer interests, since there are no restrictions to how many withdrawals you can make.&lt;/p&gt;
-
-&lt;p&gt;The second kind is a &lt;strong&gt;Savings Account&lt;/strong&gt;. With this account type, you might only be able to withdraw 6 times a month, with an upper bound of how much money you can take out. However, as the bank gains some amount of long-term consistency on your money, they will also give you higher interest rates. At a 1% interest rate, leaving $10,000 in your savings account will earn you $100 a year.&lt;/p&gt;
-
-&lt;p&gt;Basically, only money that you need to spend in the short term should be in your checkings account. All of your other financial worth can be in your savings account, or in investments (mentioned below).&lt;/p&gt;
-
-&lt;p&gt;Nerdwallet has a nice page on the &lt;a href=&#34;https://www.nerdwallet.com/banking/best-savings-accounts&#34; target=&#34;_blank&#34;&gt;best savings accounts&lt;/a&gt;. I recently opened a GS Bank Online Savings account, which offers a 1.2% annual interest.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.bankofamerica.com&#34; target=&#34;_blank&#34;&gt;Bank of America&lt;/a&gt; is good for checkings accounts since they have a lot of ATMs across the country for cash withdrawal, and there is also a BoA office at MIT.&lt;/p&gt;
-
-&lt;h2 id=&#34;maximizing-reward-programs-discounts&#34;&gt;Maximizing Reward Programs / Discounts&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;open all the loyalty programs, and receive extra points in addition to your normal spending habits&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nerdwallet has a nice summary of beginner tips for maximizing points and miles &lt;a href=&#34;https://thepointsguy.com/guide/beginners/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I&amp;rsquo;ll give a quick summary of that page below:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/thepointsguy.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-13-at-11.31.45-AM.jpg?fit=2048%2C2048px&amp;amp;ssl=1&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Sign up for airline loyalty programs&lt;/strong&gt;. If you&amp;rsquo;re going to fly Delta anyway, might as well get miles for it (which will eventially translate into free flights)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sign up for airline dining programs&lt;/strong&gt;. You can &amp;ldquo;double dip&amp;rdquo; when dining out by earning airline miles in addition to credit card rewards. For example, dosa factory in Boston offers 3 miles/$ in addition to your &lt;a href=&#34;https://www.nerdwallet.com/blog/credit-cards/capital-one-premier-dining-rewards-credit-card-review/&#34; target=&#34;_blank&#34;&gt;3% cash back&lt;/a&gt; credit card for dining (so that&amp;rsquo;s 6% off).&lt;/li&gt;
-&lt;li&gt;Use &lt;a href=&#34;https://www.opentable.com/&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; to make dining reservations (you get a $20 gift card after making ~20 reservations) and &lt;a href=&#34;https://www.restaurant.com/&#34; target=&#34;_blank&#34;&gt;Restaurant.com&lt;/a&gt; for discounts at restaurants you want to go to (for example, you can buy a $10 Beantown Taquiera credit for only $4).&lt;/li&gt;
-&lt;li&gt;Make purchases through &lt;strong&gt;online shopping portals&lt;/strong&gt;. Click through one of the online mileage malls and you’ll automatically get points or miles for every dollar you spend. If you buy an iPhone, use the &lt;a href=&#34;https://shopping.mileageplus.com/&#34; target=&#34;_blank&#34;&gt;United&lt;/a&gt; shopping portal to go to Apple&amp;rsquo;s website, and also earn extra 700 miles.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blogs-to-follow&#34;&gt;Blogs to follow&lt;/h2&gt;
-
-&lt;p&gt;Here are some blogs that I recommend following for maximizing rewards:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://thepointsguy.com/&#34; target=&#34;_blank&#34;&gt;Thepointsguy&lt;/a&gt; is a very useful blog that provides useful information on travel perks and maximizing rewards. I essentially followed this &lt;a href=&#34;https://thepointsguy.com/guide/beginners/&#34; target=&#34;_blank&#34;&gt;beginner&amp;rsquo;s guide&lt;/a&gt; to create this blog post.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nerdwallet.com/&#34; target=&#34;_blank&#34;&gt;Nerdwallet&lt;/a&gt; offers good advice on credit cards, bank accounts, and investing brokers.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.travelpirates.com/&#34; target=&#34;_blank&#34;&gt;Travel Pirates&lt;/a&gt; is a nice blog that has links to cheap travel deals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Note: Please keep in mind that my observations are from an amateur perspective; investing carries its risks and make sure you have done your research before making purchases!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The idea is that, if you have extra money lying around, if you leave it in cash, after a year it will have the same face value. Leaving it in a bank can have it grow by 1% a year. Investing [in stocks] might yield more growth, but also risk losing money.&lt;/p&gt;
-
-&lt;p&gt;I won&amp;rsquo;t detail investment strategy in this blog post, but I&amp;rsquo;ll mention some companies through which you can invest your money.&lt;/p&gt;
-
-&lt;p&gt;To buy stocks, you usually need to go through &lt;strong&gt;Brokers&lt;/strong&gt;. I recommend &lt;a href=&#34;http://share.robinhood.com/andrewx6&#34; target=&#34;_blank&#34;&gt;Robinhood&lt;/a&gt; since it has no &lt;a data-toggle=&#34;tooltip&#34; title=&#34;Usually, for every transaction, you have to pay ~$7 to the broker&#34;&gt;commission&lt;/a&gt; on trades.&lt;/p&gt;
-
-&lt;p&gt;You may also want to make investments through an &lt;strong&gt;IRA&lt;/strong&gt; (individual retirement account). With tax deductions, you can earn more on your investments. The two main types of IRAs are the Roth and Traditional, as compared below:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Roth&lt;/th&gt;
-&lt;th&gt;Traditional&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Maximum Annual Salary&lt;/td&gt;
-&lt;td&gt;$118k&lt;/td&gt;
-&lt;td&gt;none&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.fidelity.com/retirement-ira/contribution-limits-deadlines&#34; target=&#34;_blank&#34;&gt;Maximum Annual Contribution&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;$5,500&lt;/td&gt;
-&lt;td&gt;$5,500&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.rothira.com/traditional-ira-vs-roth-ira&#34; target=&#34;_blank&#34;&gt;Tax&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;taxed before contribution&lt;br&gt;investment earnings aren&amp;rsquo;t taxed&lt;/td&gt;
-&lt;td&gt;deductible before contribution&lt;br&gt;investment earnings are taxed&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;A safe investment option for IRAs is to buy S&amp;amp;P 500 ETFs (for example through &lt;a href=&#34;https://personal.vanguard.com/us/funds/snapshot?FundIntExt=INT&amp;amp;FundId=0968&#34; target=&#34;_blank&#34;&gt;Vanguard&lt;/a&gt;, which is essentially taking a neutral stance on the market.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Basically, get a ROTH IRA account while you are still a poor student.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Recently, &lt;strong&gt;Cryptocurrencies&lt;/strong&gt; like Bitcoin and Ethereum have been hot investment topics, with Bitcoin fourfolding this calendar year and Ethereum tenfolding. You can use &lt;a href=&#34;https://coinmarketcap.com/&#34; target=&#34;_blank&#34;&gt;Coinmarketcap&lt;/a&gt; to follow the cryptocurrencies, and invest through 3rd parties like &lt;a href=&#34;https://www.coinbase.com&#34; target=&#34;_blank&#34;&gt;Coinbase&lt;/a&gt; or &lt;a href=&#34;https://libertyx.com/&#34; target=&#34;_blank&#34;&gt;LibertyX&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- ## &lt;span style=&#34;color:#222&#34;&gt;Blogs to follow&lt;/span&gt; --&gt;
-
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;These are some tips that I&amp;rsquo;ve spent time researching, hopefully they are helpful for you too.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions, feel free to contact me and I love talking about these things!&lt;/p&gt;
-</description>
+      <guid>/post/moneybasics/</guid>
+      <description>Continuing from my previous post on credit cards, I&amp;rsquo;ll detail some of my money management habits that might be helpful for others.
+Here, I&amp;rsquo;ll talk about opening bank accounts, maximizing rewards, and some basic investment tips.
+Bank Accounts  Open a savings account like GS Bank and earn 1.2% interest every year.
+ If you do not have a bank account, I would definitely recommend getting one. It&amp;rsquo;s nice to have money stored in a bank rather than having to carry cash around, make purchases on the internet, and certain banks also offer nice interest rates so your money will grow by just sitting there.</description>
     </item>
     
     <item>
       <title>Tips on Credit Cards</title>
-      <link>https://qandrew.github.io/post/creditcard/</link>
+      <link>/post/creditcard/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://qandrew.github.io/post/creditcard/</guid>
-      <description>
-
-&lt;p&gt;Hello, this is my first blog post in a while :) I&amp;rsquo;ll keep to a minimalist writing style so reading this blog can be as fast and as helpful as possible.&lt;/p&gt;
-
-&lt;h1 id=&#34;credit-cards&#34;&gt;Credit Cards&lt;/h1&gt;
-
-&lt;p&gt;A &lt;a href=&#34;https://www.nerdwallet.com/blog/nerdscholar/credit-card/&#34; target=&#34;_blank&#34;&gt;credit card&lt;/a&gt; is a payment system. When you use a credit card to buy an item, you are effectively borrowing money from the bank, and you can pay the bank back within a subsequent 25-30 day period.&lt;/p&gt;
-
-&lt;p&gt;A credit card is offered by a bank (Bank of America, Chase). Visa and MasterCard are payment networks.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-should-i-get-one&#34;&gt;Why should I get one?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Build your &lt;a href=&#34;https://www.nerdwallet.com/blog/category/finance/credit-score/&#34; target=&#34;_blank&#34;&gt;credit score&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fraud protection&lt;/strong&gt;: if you purchased a fradulent item, and you want to cancel the purchase, with a credit card, you can call the bank and get your money back (the bank assumes the risk). However, if you purchase such item with a debit card or cash, your money has been spent and cannot be retrieved.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rewards&lt;/strong&gt;: many credit cards may offer 2% cash back, which means you are saving money every time you buy an item.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Foreign Transaction Fees&lt;/strong&gt;: if you travel frequently, there are credit cards with no foreign transaction fees, which might be a better exchange rate than going to a counter. (Though, different credit card networks may offer different conversion rates).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;why-shouldn-t-i-get-one&#34;&gt;Why shouldn&amp;rsquo;t I get one?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tendencies to &lt;strong&gt;overspend&lt;/strong&gt; with credit cards lead to debt accumulation&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interest rates&lt;/strong&gt; for paying the debt are very high. If you pay on time, though, there is no debt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;things-to-look-for-when-choosing-a-credit-card&#34;&gt;Things to look for when choosing a credit card&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Is there an &lt;em&gt;annual fee&lt;/em&gt;? Usually the credit cards with better rewards also have an annual fee ($95/year), so if your spending&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Foreign transaction fees&lt;/em&gt;? When using a credit card abroad, you may be charged up to 3% extra for the purchase. However, this fee is waived for many cards.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Signup bonus&lt;/em&gt;? Some credit cards may offer 30,000 miles (or cashback) for the first $1000 you spend in the first 3 months of opening a card, which may be a tremendous value!&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Rewards&lt;/em&gt;? This is the key part of credit cards -taking advantage of the rewards! Whether you prefer cashback, airline miles, AMC movie discounts, etc, you should choose a card that best fits your needs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;which-credit-cards-should-i-get&#34;&gt;Which credit cards should I get?&lt;/h3&gt;
-
-&lt;p&gt;As I am a student, the credit cards that I&amp;rsquo;m mentioning are targeted towards my spending category.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-usage&#34;&gt;General Usage&lt;/h4&gt;
-
-&lt;p&gt;These credit cards have rewards that are&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://c1.nerdwallet.com/images/4220_729390816ccdb615ef999cd87032af4f_L.jpg&#34; alt=&#34;Credit Card&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;By far, I&amp;rsquo;d highly recommend the &lt;a href=&#34;https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card&#34; target=&#34;_blank&#34;&gt;Citi Double Cash Card&lt;/a&gt;. You get 2% cash back on every single purchase with no restrictions. No annual fees, but there is a foreign transaction fee.&lt;/p&gt;
-
-&lt;p&gt;(However I think the fineprint states that to get the 2nd percent cash back, you must wait for the transaction to be confirmed before you pay back. Essentially, wait a while before you actually make your credit card payment for this card.)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://c1.nerdwallet.com/images/3214_dba0115abf776ec818e0e8c96368e362_L.jpg&#34; alt=&#34;Chase&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m currently using the &lt;a href=&#34;https://creditcards.chase.com/a1/freedom-unlimited?CELL=6B4W&amp;amp;jp_cmp=cc/Freedom%20Unlimited_Brand_Exact_Freedom%20Unlimited_SEM_US_No%20xLOB_Standard_NA_MMTest/sea/NmfddVbu/Chase%20Freedom%20Unlimited&amp;amp;kwdID=NmfddVbu_dc&amp;amp;adgrpID=207361584940&#34; target=&#34;_blank&#34;&gt;Chase Freedom Unlimited&lt;/a&gt;, which offers 1.5% cash back, and no annual fees. This credit card also offers $175 back for the first $500 you spend in the past 3 months, so it&amp;rsquo;s better than the Citibank card for up to the first $35,000.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/value-penguin/image/upload/fl_png8,f_auto,q_90/v1438118632/credit_cards/ztwxtj1e26gh6d2y8rqu.png&#34; alt=&#34;BoA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also have the &lt;a href=&#34;https://www.valuepenguin.com/bankamericard-better-balance-rewards-card&#34; target=&#34;_blank&#34;&gt;BankAmericard® Better Balance Rewards™ Credit Card&lt;/a&gt;. You essentially get $100 caskback every year as long as you pay in full, so it&amp;rsquo;s a nice credit card to have to get the flat rewards. I&amp;rsquo;m not sure if it&amp;rsquo;s offered anymore, though.&lt;/p&gt;
-
-&lt;h4 id=&#34;airline-rewards&#34;&gt;Airline Rewards&lt;/h4&gt;
-
-&lt;p&gt;These are the cards that generally I&amp;rsquo;d apply to, and then CANCEL them once I get the initial rewards so you don&amp;rsquo;t get charged the annual fee.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://c1.nerdwallet.com/images/1010_cc47a1a5ee39357fc30b0956ac636838_L.jpg&#34; alt=&#34;Delta&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I currently have the &lt;a href=&#34;https://www.americanexpress.com/us/credit-cards/card/delta-skymiles/&#34; target=&#34;_blank&#34;&gt;Delta Gold SkyMiles&lt;/a&gt; card. Currently, you earn 30k miles (roughly $400) for the first $1k you spend, which is a 40% discount rate! You also get 1 free check-in baggage when flying Delta, and priority boarding, and no foreign transaction fees. The annual fee of $95 is waived the first year, so be sure to cancel it in the first year :)&lt;/p&gt;
-
-&lt;p&gt;Keep in mind that the initial miles bonus varies over time (I got 60k miles when I applied), so you may also want to wait for a better miles deal.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://c1.nerdwallet.com/images/4001_10e0b458979cb0521292536baee76173_L.jpg&#34; alt=&#34;AA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also had the &lt;a href=&#34;https://secure.fly.aa.com/citi/direct-plat?anchorLocation=DirectURL&amp;amp;title=citi&#34; target=&#34;_blank&#34;&gt;American Airlines Citibank&lt;/a&gt; credit card. You also earn 30k miles for the first $1k you spend, plus similar perks with the Delta credit card. I got the initial bonus, and cancelled it because of the annual fee. However, holding onto the credit card is still nice because I can show the card to the gate attendants at the airport and occasionally get priority boarding.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://c1.nerdwallet.com/images/3049_12169088ebdb44fed1214e8549a23e72_L.jpg&#34; alt=&#34;United&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And of course, there&amp;rsquo;s the &lt;a href=&#34;https://www2.theexplorercard.com/40kAF?CELL=B4W&amp;amp;jp_cmp=cc/United%20Explorer_Brand_Exact_United%20Explorer_SEM_US_No%20xLOB_Standard_NA_MMTest/sea/18GOqH4i/Chase%20United&amp;amp;kwdID=18GOqH4i_dc&amp;amp;adgrpID=211099896667&#34; target=&#34;_blank&#34;&gt;United Chase&lt;/a&gt; credit card. Currently you get 40k miles for the first $1k you spend, and similar perks and annual fee. I don&amp;rsquo;t have this yet.&lt;/p&gt;
-
-&lt;p&gt;If you fly other airlines more frequently, feel free to look up their credit cards and their perks.&lt;/p&gt;
-
-&lt;h3 id=&#34;general-tips&#34;&gt;General Tips&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setup autopay from your bank account, and always pay in full&lt;/li&gt;
-&lt;li&gt;Get a credit card as early as possible to build your credit score&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s okay to have multiple credit cards open, but make sure you keep track of the finances in such cards.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;Thanks for reading! This is meant to be an introduction to credit cards, so I didn&amp;rsquo;t go into many of the rewards details (technically the Chase credit card reimburses you in Chase UltimateReward points which then you can convert to cash, or miles).&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll try to write on Investing (Robinhood, Bitcoin, Vanguard, RothIRA) next time.&lt;/p&gt;
-</description>
+      <guid>/post/creditcard/</guid>
+      <description>Hello, this is my first blog post in a while :) I&amp;rsquo;ll keep to a minimalist writing style so reading this blog can be as fast and as helpful as possible.
+Credit Cards A credit card is a payment system. When you use a credit card to buy an item, you are effectively borrowing money from the bank, and you can pay the bank back within a subsequent 25-30 day period.</description>
     </item>
     
     <item>
       <title>MIT Sophomore Mixer Series</title>
-      <link>https://qandrew.github.io/post/mixer_series/</link>
+      <link>/post/mixer_series/</link>
       <pubDate>Mon, 15 Jun 2015 11:50:20 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/mixer_series/</guid>
-      <description>
-
-&lt;p&gt;Over IAP 2015 (MIT Speak for our January break), Justine Jang and I worked with Fred Daso and the MIT 2017 Class Council on the Mixer Series project as a way to connect MIT sophomores with each other.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;what-we-did&#34;&gt;What we did&lt;/h3&gt;
-
-&lt;p&gt;MIT is a very diverse community, but students are very busy. So how does one meet new people outside of her daily life cycle of classes, clubs, psetting, and her friend group? I met with Justine and Fred to discuss ideas of bringing the sophomore class closer, and we thought about randomly matching sophomores to get lunch together as a nice way to meet new people.&lt;/p&gt;
-
-&lt;p&gt;To participate in the Mixer Series, we created a google form and posted it on the class of 2017 page. We wrote a random matching algorithm to create groups of four sophomores not in the same major, dorm, or affiliation. Then, the program emailed the matches and groups began to coordinate a time and place to meet up.&lt;/p&gt;
-
-&lt;p&gt;Throughout February, 300 sophomores signed up, and new friendships were formed. Groups met up and posted selfies to the facebook page, generating &amp;ldquo;likes&amp;rdquo; and a better sense of community within our diverse class.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;sample-selfies&#34;&gt;Sample Selfies&lt;/h3&gt;
-
-&lt;p&gt;Here are some of the photos of the class of 2017!&lt;/p&gt;
-
-&lt;p&gt;
-
-
-
-  
-
-
-&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://qandrew.github.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-
-
-&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
-
-&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
-
-&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
-    
-    &lt;div class=&#34;pswp__container&#34;&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
-    &lt;div class=&#34;pswp__top-bar&#34;&gt;
-      
-      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
-      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
-      
-      
-      &lt;div class=&#34;pswp__preloader&#34;&gt;
-        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
-          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
-            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
-      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
-    &lt;/button&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
-    &lt;/button&gt;
-    &lt;div class=&#34;pswp__caption&#34;&gt;
-      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qandrew.github.io/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;gallery caption-position-none caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/mixer/mixerseries_photo1.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/mixer/mixerseries_photo1.jpg&#34; alt=&#34;Mixerseries photo1&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Mixerseries photo1&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/mixer/mixerseries_photo1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qandrew.github.io/img/mixer/mixerseries_photo2.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qandrew.github.io/img/mixer/mixerseries_photo2.jpg&#34; alt=&#34;Mixerseries photo2&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Mixerseries photo2&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://qandrew.github.io/img/mixer/mixerseries_photo2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;View the &lt;a href=&#34;https://qandrew.github.io/files/mixerseries_proposal.pdf&#34;&gt;&lt;strong&gt;proposal document&lt;/strong&gt;&lt;/a&gt; we wrote to the 2017 Class Council&lt;/p&gt;
-
-&lt;p&gt;View our form &lt;a href=&#34;https://docs.google.com/forms/d/1XnbpaHoILWYE92E3rfoKTKgy0hzQaaQZNhwG7ckSfUE&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
-</description>
+      <guid>/post/mixer_series/</guid>
+      <description>Over IAP 2015 (MIT Speak for our January break), Justine Jang and I worked with Fred Daso and the MIT 2017 Class Council on the Mixer Series project as a way to connect MIT sophomores with each other.
+What we did MIT is a very diverse community, but students are very busy. So how does one meet new people outside of her daily life cycle of classes, clubs, psetting, and her friend group?</description>
     </item>
     
   </channel>

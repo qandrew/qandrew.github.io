@@ -2,166 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic on Andrew Xia</title>
-    <link>https://qandrew.github.io/tags/academic/</link>
+    <link>/tags/academic/</link>
     <description>Recent content in Academic on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrew Xia</copyright>
+    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>6.875 Cryptography &amp; Cryptanalysis Lecture Videos</title>
-      <link>https://qandrew.github.io/post/6.875/</link>
+      <link>/post/6.875/</link>
       <pubDate>Thu, 31 May 2018 06:46:36 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.875/</guid>
-      <description>&lt;p&gt;During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&amp;rsquo;s &lt;a href=&#34;http://people.csail.mit.edu/moitra/854.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Cryptography &amp;amp; Cryptanalysis&lt;/strong&gt;&lt;/a&gt; (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist &lt;a href=&#34;https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. The first recorded lecture is embedded below.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/jDsfV2ohFPs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <guid>/post/6.875/</guid>
+      <description>During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&amp;rsquo;s Cryptography &amp;amp; Cryptanalysis (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+  Selected Press The lecture videos were featured on Hacker News.</description>
     </item>
     
     <item>
       <title>Leakage Resilient Public Key Authentication for Embedded Devices</title>
-      <link>https://qandrew.github.io/post/2017_superurop/</link>
+      <link>/post/2017_superurop/</link>
       <pubDate>Mon, 29 May 2017 16:09:12 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/2017_superurop/</guid>
-      <description>
-
-&lt;p&gt;For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was &lt;em&gt;Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices&lt;/em&gt;, working with &lt;a href=&#34;http://chiraag.scripts.mit.edu/wiki/start&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Chiraag Juvekar&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://www-mtl.mit.edu/~anantha/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Prof. Anantha Chandrakasan&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This work was presented at EECScon. An extension of this work, with my collaborators, is currently in submission.&lt;/p&gt;
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Having an effective and convenient authentication system
-is necessary for the future development and increased
-usage of devices in the Internet of Things. This
-paper presents the implementation of a pairings-based,
-public key leakage resilient authentication system to
-improve upon current authentication schemes. We have
-developed a pairings library in C, and we have implemented
-software in RISCV assembly that successfully
-implements such authentication scheme on a FPGA,
-demonstrating the feasibility and efficiency of such primitive.&lt;/p&gt;
-
-&lt;p&gt;My paper can be found &lt;a href=&#34;https://qandrew.github.io/files/superUROP.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/post/2017_superurop/</guid>
+      <description>For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices, working with Chiraag Juvekar and Prof. Anantha Chandrakasan.
+This work was presented at EECScon. An extension of this work, with my collaborators, is currently in submission.
+Abstract Having an effective and convenient authentication system is necessary for the future development and increased usage of devices in the Internet of Things.</description>
     </item>
     
     <item>
       <title>Probabilistic Lightning</title>
-      <link>https://qandrew.github.io/post/6.857/</link>
+      <link>/post/6.857/</link>
       <pubDate>Sun, 28 May 2017 06:46:36 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.857/</guid>
-      <description>
-
-&lt;p&gt;For our &lt;a href=&#34;http://courses.csail.mit.edu/6.857/2017/&#34; target=&#34;_blank&#34;&gt;6.857 (network security)&lt;/a&gt; final project, in a group project with Jamie Bloxham, Gina Yuan, and Justine Jang, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; With regular Bitcoin transactions, low-value, high-frequency payments are increasingly impractical due to increasingly significant mining fees that must be paid with each transaction. The Bitcoin Lightning Network is an extension to Bitcoin that allows two parties to create a payment channel between themselves, allowing payments to be made without committing many transactions to the blockchain, thus avoiding substantial mining fees. However, these payments still cannot be smaller than a satoshi, the smallest unit of Bitcoin. In this paper, we describe a
-scheme for probabilistic payments in the Lightning Network, which can be utilized to effectively make sub-satoshi microtransactions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://qandrew.github.io/img/6857_lit.png&#34; alt=&#34;Lit&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
-
-&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/jbloxham/lit&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our final writeup can be found &lt;a href=&#34;https://pdfs.semanticscholar.org/9be2/024e080adfaf545c7efae3a5114056e5cef3.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;selected-press&#34;&gt;Selected Press&lt;/h2&gt;
-
-&lt;p&gt;Our project was featured on &lt;a href=&#34;https://bitcointechweekly.com/briefs/probabilistic-lightning-sub-satoshi-transactions-in-the-lightning-network/&#34; target=&#34;_blank&#34;&gt;Bitcoin Tech Weekly&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/Bitcoin/comments/7jwohp/these_kids_from_mit_propose_a_technique_for/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/post/6.857/</guid>
+      <description>For our 6.857 (network security) final project, in a group project with Jamie Bloxham, Gina Yuan, and Justine Jang, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.
+Abstract With regular Bitcoin transactions, low-value, high-frequency payments are increasingly impractical due to increasingly significant mining fees that must be paid with each transaction.</description>
     </item>
     
     <item>
       <title>ORGanized Interactions</title>
-      <link>https://qandrew.github.io/post/6.824/</link>
+      <link>/post/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.824/</guid>
-      <description>
-
-&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
-
-&lt;p&gt;For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.&lt;/p&gt;
-
-&lt;p&gt;View our paper on our implementation &lt;a href=&#34;https://qandrew.github.io/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/post/6.824/</guid>
+      <description>Context For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.
+View our paper on our implementation here.
+The link to the github repository with our source code is available here.</description>
     </item>
     
     <item>
       <title>Learning Digits via Audio-Visual Representations</title>
-      <link>https://qandrew.github.io/post/6.867/</link>
+      <link>/post/6.867/</link>
       <pubDate>Sun, 18 Dec 2016 06:46:36 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.867/</guid>
-      <description>
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Our goal is to explore models for language learning (in this case learning numerical digits in their spoken and visual representations) in the manner that humans learn languages as children. Namely, children do not have intermediary text transcriptions in corresponding visual and audio inputs from the world around them; rather, they directly make connections between what they see and what they hear. In this paper, we construct models for the direct bi-directional classification of speech and images, inspired by a few research papers. We experiment with architectures of two convolutional neural networks, one on the TIDIGITS data set (audio) and the other on the MNIST data set (visual), to obtain joint representations of single digits from spoken utterances and images. Finally, we experiment with an alignment model that ties together the convnets to learn these joint representations. We report an overall image annotation accuracy of 88.5% and an overall image retrieval accuracy of 87.6%.&lt;/p&gt;
-
-&lt;h3 id=&#34;links-notes&#34;&gt;Links &amp;amp; Notes&lt;/h3&gt;
-
-&lt;p&gt;I worked with Sitara Persad and Karan Kashyap on this final project.&lt;/p&gt;
-
-&lt;p&gt;See our paper writeup &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project/blob/master/6_867_Project_Writeup.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our GitHub repository for the project is available &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/post/6.867/</guid>
+      <description>Abstract Our goal is to explore models for language learning (in this case learning numerical digits in their spoken and visual representations) in the manner that humans learn languages as children. Namely, children do not have intermediary text transcriptions in corresponding visual and audio inputs from the world around them; rather, they directly make connections between what they see and what they hear. In this paper, we construct models for the direct bi-directional classification of speech and images, inspired by a few research papers.</description>
     </item>
     
     <item>
       <title>3D Tic Tac Toe AI</title>
-      <link>https://qandrew.github.io/post/6.115/</link>
+      <link>/post/6.115/</link>
       <pubDate>Sat, 28 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.115/</guid>
-      <description>
-
-&lt;p&gt;For my final project, I built a 3D Tic Tac Toe game, complete with an AI for the user to play against. The input of the game used capacitave based sensing chips, and the output of the game was displayed on a VGA screen. I used my 8051 and R31JP to connect with my PSoC to process the user input and game engine.&lt;/p&gt;
-
-&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/x5vISL8aN4Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;
-
-&lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/qandrew/6.115-final-project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;My lab notebook writeup for the project can be found &lt;a href=&#34;https://github.com/qandrew/6.115-final-project/blob/master/Lab%20Notebook/Lab%20Notebook.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/post/6.115/</guid>
+      <description>For my final project, I built a 3D Tic Tac Toe game, complete with an AI for the user to play against. The input of the game used capacitave based sensing chips, and the output of the game was displayed on a VGA screen. I used my 8051 and R31JP to connect with my PSoC to process the user input and game engine.
+Video   Github See my code and documentation here.</description>
     </item>
     
     <item>
       <title>6.854 Advanced Algorithms Lecture Videos</title>
-      <link>https://qandrew.github.io/post/6.854/</link>
+      <link>/post/6.854/</link>
       <pubDate>Wed, 18 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>https://qandrew.github.io/post/6.854/</guid>
-      <description>&lt;p&gt;During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s &lt;a href=&#34;http://people.csail.mit.edu/moitra/854.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Advanced Algorithms&lt;/strong&gt;&lt;/a&gt; (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist &lt;a href=&#34;https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. The first recorded lecture is embedded below.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/hM547xRIdzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <guid>/post/6.854/</guid>
+      <description>During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+  </description>
     </item>
     
   </channel>

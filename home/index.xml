@@ -2,13 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Andrew Xia</title>
-    <link>https://qandrew.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrew Xia</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Hello! I am a Masters Student in Computer Science at MIT advised by Prof. Yael Kalai. I recently completed my undergrad studies in Math and EECS also at MIT. In 2019, I will be a Fulbright Chile Scholar working with Prof. Jose Correa at the Universidad de Chile in research in mechanism design and applications in transit networks.In my free time, I like photography, planespotting, running, cycling, traveling, and learning languages.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications &amp; Projects</title>
+      <link>/home/posts/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description>Publications &amp;amp; Preprints Implementation of a Practical Leakage Resilient ID Scheme [link]
+Chiraag Juvekar, Utsav Banerjee, Andrew Xia, Yael Kalai, Anantha Chandrakasan
+In Submission
+Senseable Cities Guide to Melbourne [pdf]
+Andrew Xia et al.
+Senseable Cities Lab
+Integrated Gene Expression Probabilistic Models for Cancer Staging [pdf]
+Andrew Xia, Gil Alterovitz
+JMM 2013
+Selected Projects How to Make Almost Anything [link]
+Took part of the class, built a chair and a PCB, before the semester got too busy :(</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/home/blog/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photovideo</title>
+      <link>/home/photo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/photo/</guid>
+      <description>Iced Coffee in Melbourne
+      An old lady in Hong Kong
+          MIT Springfest
+     I also filmed two classes I took at MIT, 6.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
