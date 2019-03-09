@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,16 +33,16 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Hello! I am a Masters Student in Computer Science at MIT advised by Prof. Yael Kalai. I recently completed my undergrad studies in Math and EECS also at MIT. In 2019, I will be a Fulbright Chile Scholar working with Prof. Jose Correa at the Universidad de Chile in research in mechanism design and applications in transit networks.In my free time, I like photography, planespotting, running, cycling, traveling, and learning languages.</description>
+      <description>Hello! I am currently a Fulbright Chile Scholar, working with Prof. Jose Correa at the Universidad de Chile in research in mechanism design and applications in transit networks. I recently completed my masters in Computer Science at MIT advised by Prof. Yael Kalai, with my thesis focused on lattice-based cryptography. In my free time, I like photography, planespotting, running, cycling, and learning languages. I&amp;rsquo;ve lived and/or worked in USA, Hong Kong, Japan, China, Germany, and Chile so far.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -68,7 +68,7 @@ Chiraag Juvekar, Utsav Banerjee, Andrew Xia, Yael Kalai, Anantha Chandrakasan
 In Submission
 Senseable Cities Guide to Melbourne [pdf]
 Andrew Xia et al.
-Senseable Cities Lab
+Senseable Cities Lab 2017
 Integrated Gene Expression Probabilistic Models for Cancer Staging [pdf]
 Andrew Xia, Gil Alterovitz
 JMM 2013
@@ -100,7 +100,7 @@ Took part of the class, built a chair and a PCB, before the semester got too bus
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -109,7 +109,7 @@ Took part of the class, built a chair and a PCB, before the semester got too bus
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -118,7 +118,7 @@ Took part of the class, built a chair and a PCB, before the semester got too bus
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

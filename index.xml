@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>January 2019 Articles</title>
+      <link>/post/2019_01_links/</link>
+      <pubDate>Sun, 03 Feb 2019 11:50:20 -0400</pubDate>
+      
+      <guid>/post/2019_01_links/</guid>
+      <description>
+
+&lt;p&gt;Hi all! I thought I&amp;rsquo;d update y&amp;rsquo;all with some of my recent readings/watchings on the internet.&lt;/p&gt;
+
+&lt;h2 id=&#34;business-articles&#34;&gt;Business Articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.citylab.com/transportation/2019/02/micromobility-conference-electric-scooters-bike-share/581791/&#34; target=&#34;_blank&#34;&gt;Behind the Big Promises of the Micromobility Industry | CityLab&lt;/a&gt; What is the future of transportation? While there is industry hype on self-driving cars, I personally believe that micromobility (dockless bikes and scooters) are the nearer term solution.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netflix.com/cl-en/title/81035279&#34; target=&#34;_blank&#34;&gt;Fyre: The Greatest Party that Never Happened | Netflix&lt;/a&gt; This Netflix documentary, along with Hulu&amp;rsquo;s take on the Fyre festival, is an introspective take on a failed music festival in 2017 and the lead-up to the disaster.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bnoUBfLxZz0&#34; target=&#34;_blank&#34;&gt;Super Fast Logistics of Delivering Blood by Drone | Wendover&lt;/a&gt; Wendover Productions is one of my favorite Youtube channels, and in this video he explains the use of drone to deliver blood in Rwanda, a sub-Saharan African country with universal health care (looking at you, USA).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://levels.fyi&#34; target=&#34;_blank&#34;&gt;Levels.fyi&lt;/a&gt; This is a nice website to visualize how the career ladder in tech and some similar fields work.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kalzumeus.com/2012/01/23/salary-negotiation/&#34; target=&#34;_blank&#34;&gt;Salary Negotiation tips&lt;/a&gt; Per Eddie Xue, this article touches on points of how to do job negotiations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tech-computer-science&#34;&gt;Tech / Computer Science&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hacker-tools.github.io/&#34; target=&#34;_blank&#34;&gt;Hacker Tools · hacker tools&lt;/a&gt; a class put together by my friend Anish Athalye and others, I am meaning to go through this to better my engineering skills.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://timroughgarden.org/f13/f13.html&#34; target=&#34;_blank&#34;&gt;Algorithmic Game Theory | Tim Roughgarden&lt;/a&gt; I am currently going through &lt;em&gt;algorithmic game theory&lt;/em&gt; using Tim Roughgarden&amp;rsquo;s lecture notes (and problem sets and lecture videos) to learn more about the field.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ap2uWsJV25w&#34; target=&#34;_blank&#34;&gt;Ten Years of Being a Software Engineer | Techlead&lt;/a&gt; via Bishesh Khadka, the video below was particularly meaningful and eye-opening to me when I first watched it. Though it pertains much to the perks of the tech industry, it was a very refreshing take on how one&amp;rsquo;s career off the beaten path may lead to unique success.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Ap2uWsJV25w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;weather-climate&#34;&gt;Weather / Climate&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncdc.noaa.gov/temp-and-precip/us-maps/1/201901&#34; target=&#34;_blank&#34;&gt;National Temperature and Precipitation Maps | NOAA&lt;/a&gt; This website provides interesting information on how US weather over the years has deviated from the historical average.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2018/12/24/climate/how-electricity-generation-changed-in-your-state.html&#34; target=&#34;_blank&#34;&gt;How Does Your State Make Electricity? | NYT&lt;/a&gt; Varying by state&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve always wondered how much energy the internet uses, and this article provides a rough estimate: &lt;a href=&#34;https://climatecare.org/infographic-the-carbon-footprint-of-the-internet/&#34; target=&#34;_blank&#34;&gt;Infographic: The Carbon Footprint of the Internet - ClimateCare&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;picture / video: 0.2g CO2 per second&lt;/li&gt;
+&lt;li&gt;email: 4g CO2&lt;/li&gt;
+&lt;li&gt;google search: 0.5g CO2&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2018-us-land-use/&#34; target=&#34;_blank&#34;&gt;How America Uses Its Land&lt;/a&gt; Bloomberg has a great visualization of land usage in the US: most of our land is dedicated to cattle.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2019/02/02/opinion/sunday/winter-snow-ski-climate.html&#34; target=&#34;_blank&#34;&gt;Why Can&amp;rsquo;t Rich People Save Winter? | NYT&lt;/a&gt; This article asks what the ski industry is doing with climate change as an existential crisis for the industry &amp;ndash;and the answer is mostly nothing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zarazhang.com/2019/02/06/what-is-it-like-to-work-in-china/&#34; target=&#34;_blank&#34;&gt;What is it like to work in China | Zara Zhang&lt;/a&gt; This article by Zara is a more inside take into&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=q1QBjpUuflY&#34; target=&#34;_blank&#34;&gt;Where Beijing&amp;rsquo;s &amp;lsquo;bottom of society&amp;rsquo; live | SCMP&lt;/a&gt; South China Morning Post, based in Hong Kong, provides a more neutral perspective on the Beijing&amp;rsquo;s lower class, and views of the city that tourists otherwise wouldn&amp;rsquo;t see.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be honest, in 2018 I did not read much. I am reading / have finished the following books in January:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.m.wikipedia.org/wiki/The_House_of_the_Spirits&#34; target=&#34;_blank&#34;&gt;The House of the Spirits&lt;/a&gt; by Isabel Allende.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People&#34; target=&#34;_blank&#34;&gt;How to Win Friends and Influence People&lt;/a&gt; by Dale Carnegie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/On_the_Road&#34; target=&#34;_blank&#34;&gt;On the Road&lt;/a&gt; by Jack Kerouac&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hope these are interesting for you to read too! If you have any thoughts on these topics, I&amp;rsquo;d love to discuss too!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hiking in 2018</title>
@@ -134,15 +207,15 @@ the &lt;a href=&#34;https://www.strava.com/activities/1473906037&#34; target=&#3
 &lt;h2 id=&#34;transit-articles&#34;&gt;Transit Articles&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/&#34; target=&#34;_blank&#34;&gt;Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story. - CityLab&lt;/a&gt;: this is a good CityLab article about the history of public transit in the US, it&amp;rsquo;s rise in the early 20th century, and its demise as automobiles became more prevalent in this country in the ensuing decades.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vox.com/2018/8/27/17676670/electric-scooter-rental-bird-lime-skip-spin-cities&#34; target=&#34;_blank&#34;&gt;Electric scooters: why Bird, Lime, Skip, and Spin are taking over cities - Vox&lt;/a&gt;: Dockless bikes, electric scooters, and even electric mopeds are coming soon to your city! This article is a nice intro/summary about this new transit medium.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yH8tqrnvNQE&amp;amp;t=71s&amp;amp;list=WL&amp;amp;index=29&#34; target=&#34;_blank&#34;&gt;Predicting Intersection Signal Timing (Youtube)&lt;/a&gt;: A Simons Institute Lecture on how traffic signals work and the technical details behind the scene.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/&#34; target=&#34;_blank&#34;&gt;Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story | CityLab&lt;/a&gt;: this is a good CityLab article about the history of public transit in the US, it&amp;rsquo;s rise in the early 20th century, and its demise as automobiles became more prevalent in this country in the ensuing decades.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vox.com/2018/8/27/17676670/electric-scooter-rental-bird-lime-skip-spin-cities&#34; target=&#34;_blank&#34;&gt;Electric scooters: why Bird, Lime, Skip, and Spin are taking over cities | Vox&lt;/a&gt;: Dockless bikes, electric scooters, and even electric mopeds are coming soon to your city! This article is a nice intro/summary about this new transit medium.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yH8tqrnvNQE&amp;amp;t=71s&amp;amp;list=WL&amp;amp;index=29&#34; target=&#34;_blank&#34;&gt;Predicting Intersection Signal Timing | Youtube&lt;/a&gt;: A Simons Institute Lecture on how traffic signals work and the technical details behind the scene.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5Bi6hbbzl-E&#34; target=&#34;_blank&#34;&gt;Extreme poverty in China: Only 3 kids left in a shrinking Chinese village (Youtube)&lt;/a&gt;: here is an interesting video that shows the countryside of China. While when tourists visit China, they may be mesmerized by China&amp;rsquo;s world-class high speed rail, or the tremendous development in cities in the past few decades, it is worth noting that there are still regions in China that struggle with poverty.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5Bi6hbbzl-E&#34; target=&#34;_blank&#34;&gt;Extreme poverty in China: Only 3 kids left in a shrinking Chinese village | Youtube&lt;/a&gt;: here is an interesting video that shows the countryside of China. While when tourists visit China, they may be mesmerized by China&amp;rsquo;s world-class high speed rail, or the tremendous development in cities in the past few decades, it is worth noting that there are still regions in China that struggle with poverty.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;athletics&#34;&gt;Athletics&lt;/h2&gt;
@@ -150,7 +223,7 @@ the &lt;a href=&#34;https://www.strava.com/activities/1473906037&#34; target=&#3
 &lt;p&gt;My goal for this fall is to complete a half marathon, and to have a good cycling routine. Cycling a lot this summer has helped me build my endurance. Here are some relevant articles / videos that may be inspiring:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.buzzfeed.com/michellekhare/i-went-from-hating-running-to-running-a-marathon-in-ten?utm_term=.clWGwBPQb#.aeVKp2j6E&#34; target=&#34;_blank&#34;&gt;I Ran A Marathon With Only Ten Weeks Of Training And It Was Intense (YouTube)&lt;/a&gt;: here is a BuzzFeed video on training for a half marathon. Though cliche in certain aspects, I did find it inspiring (and how does she claim to be bad at long distance running if she ends up qualifying for the Boston Marathon 🤔)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.buzzfeed.com/michellekhare/i-went-from-hating-running-to-running-a-marathon-in-ten?utm_term=.clWGwBPQb#.aeVKp2j6E&#34; target=&#34;_blank&#34;&gt;I Ran A Marathon With Only Ten Weeks Of Training And It Was Intense | Buzzfeed&lt;/a&gt;: here is a BuzzFeed video on training for a half marathon. Though cliche in certain aspects, I did find it inspiring (and how does she claim to be bad at long distance running if she ends up qualifying for the Boston Marathon 🤔)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zenlabsfitness.com/7-different-types-of-running-to-do/&#34; target=&#34;_blank&#34;&gt;Try These 7 Different Types of Running Workouts! (Beginner to Advanced)&lt;/a&gt;: different types of runs (beyond simply doing long, endurance runs) that might be good for running training. I&amp;rsquo;m a novice runner, so there&amp;rsquo;s a lot to learn for me!&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.wahoofitness.com/the-ultimate-guide-for-tracking-your-cycling-heart-rate/&#34; target=&#34;_blank&#34;&gt;The Ultimate Guide for Tracking Your Cycling Heart Rate | Wahoo Fitness&lt;/a&gt;: An article about different heart rate zones that cyclists (and runners) should consider when training.&lt;/li&gt;
 &lt;/ul&gt;
@@ -159,7 +232,7 @@ the &lt;a href=&#34;https://www.strava.com/activities/1473906037&#34; target=&#3
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pitchfork.com/best/&#34; target=&#34;_blank&#34;&gt;Best New Music | Pitchfork&lt;/a&gt;: I recently discovered this website! It does album reviews which has helped me discover more music.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@lenjibin/why-crazy-rich-asians-is-important-to-me-8a59cada7c98&#34; target=&#34;_blank&#34;&gt;Why Crazy Rich Asians is Important — to me – Benji Lin – Medium&lt;/a&gt;: My friend Benji wrote a summary about watching Crazy Rich Asians.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@lenjibin/why-crazy-rich-asians-is-important-to-me-8a59cada7c98&#34; target=&#34;_blank&#34;&gt;Why Crazy Rich Asians is Important — to me | Benji Lin&lt;/a&gt;: My friend Benji wrote a summary about watching Crazy Rich Asians.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.realclearpolitics.com/&#34; target=&#34;_blank&#34;&gt;RealClearPolitics - Opinion, News, Analysis, Video and Polls&lt;/a&gt;: Recommended by my friend Hongyi, this is a website that aggregates news about politics, seemingly the equivalent to HackerNews for tech.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -565,7 +638,7 @@ scheme for probabilistic payments in the Lightning Network, which can be utilize
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -677,22 +750,6 @@ scheme for probabilistic payments in the Lightning Network, which can be utilize
 &lt;p&gt;See my code and documentation &lt;a href=&#34;https://github.com/qandrew/6.115-final-project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My lab notebook writeup for the project can be found &lt;a href=&#34;https://github.com/qandrew/6.115-final-project/blob/master/Lab%20Notebook/Lab%20Notebook.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>6.854 Advanced Algorithms Lecture Videos</title>
-      <link>/post/6.854/</link>
-      <pubDate>Wed, 18 May 2016 06:46:36 -0400</pubDate>
-      
-      <guid>/post/6.854/</guid>
-      <description>&lt;p&gt;During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s &lt;a href=&#34;http://people.csail.mit.edu/moitra/854.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Advanced Algorithms&lt;/strong&gt;&lt;/a&gt; (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist &lt;a href=&#34;https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. The first recorded lecture is embedded below.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/hM547xRIdzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
     </item>
     
