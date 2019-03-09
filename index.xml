@@ -156,8 +156,13 @@ the &lt;a href=&#34;https://www.strava.com/activities/1473906037&#34; target=&#3
 &lt;p&gt;&lt;img src=&#34;/img/1812_hiking/sgn-1.jpg&#34; alt=&#34;Signuiang&#34; /&gt;
 &lt;center&gt;&lt;em&gt;Inside our tent at 14.500ft; Aug 2018&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/1812_hiking/sgn-2.jpg&#34; alt=&#34;Signuiang&#34; /&gt;
-&lt;center&gt;&lt;em&gt;At the summit of the eldest sister, with the highest peak, the glaciated youngest sister in the distance; Aug 2018&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/1812_hiking/sgn-2.jpg&#34; alt=&#34;Signuiang&#34; /&gt;&lt;/p&gt;
+
+&lt;!-- 
+
+&lt;div class=&#34;parallax&#34; style=&#34;background-image: url(/img/1812_hiking/sgn-2.jpg)&#34;&gt;&lt;/div&gt; --&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;em&gt;At the summit of the eldest sister, with the highest peak, the glaciated youngest sister in the distance; Aug 2018&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;september-white-mountain-trips&#34;&gt;September: White Mountain Trips&lt;/h2&gt;
 

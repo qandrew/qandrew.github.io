@@ -820,10 +820,15 @@ article {
 .article-header {
   position: relative; /* Required for caption positioning */
   clear: both;
-  /*max-height: 600px;*/
+  /*max-height: 70vh;*/
   /*overflow: hidden;*/
   /*top: 50%;
   transform: translateY(-50%);*/
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .article-banner {
