@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiking on Andrew Xia</title>
+    <link>/tags/hiking/</link>
+    <description>Recent content in hiking on Andrew Xia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 06:46:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cerro El Plomo</title>
+      <link>/post/el_plomo/</link>
+      <pubDate>Tue, 26 Mar 2019 06:46:36 -0400</pubDate>
+      
+      <guid>/post/el_plomo/</guid>
+      <description>I did not summit Cerro El Plomo this past weekend.
+Closing the trip on Sunday night, in Rodrigo&amp;rsquo;s car we descended back down to Santiago from our trailhead, the ski resort of Valle Nevado, at 3000m. The drive back down was a spectacular solace &amp;ndash;up in the mountains, over two kilometers above Chile&amp;rsquo;s primary metropolis, you could see glimpses of the sea of lights peeking between mountain canyons, contrasting the clean clear air and the celestial sky in the highlands with urban civilization, cosmopolitanism, and reality down below.</description>
+    </item>
+    
+    <item>
+      <title>Hiking in 2018</title>
+      <link>/post/hiking/</link>
+      <pubDate>Sun, 16 Dec 2018 06:46:36 -0400</pubDate>
+      
+      <guid>/post/hiking/</guid>
+      <description>I should probably be writing my thesis for my MEng, but I&amp;rsquo;ll start off kindling the writing part of my mind by procrastinating for a bit.
+In the past year after I completed my undergraduate degree, I&amp;rsquo;ve been slowing spending more time finding more about who I am. During the MIT undergraduate semesters, which was one of the best times of my life, I had a lot on my plate, from rushing problem set deadline to photography event to party &amp;ndash;it was the work-hard, play-hard lifestyle.</description>
+    </item>
+    
+  </channel>
+</rss>
