@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Thresholdizing Lattice-Based Encryption Schemes</title>
+      <link>/post/thesis/</link>
+      <pubDate>Wed, 10 Apr 2019 20:54:01 -0400</pubDate>
+      
+      <guid>/post/thesis/</guid>
+      <description>Context In this thesis, we apply secret sharing techniques on lattice based encryption schemes, namely fully homomorphic encryption and predicate encryption.
+My thesis is available here.
+I would like to extend special thanks to my advisor Yael Kalai my collaborator Adam Sealfon.</description>
+    </item>
+    
+    <item>
       <title>6.875 Cryptography &amp; Cryptanalysis Lecture Videos</title>
       <link>/post/6.875/</link>
       <pubDate>Thu, 31 May 2018 06:46:36 -0400</pubDate>
@@ -81,6 +92,17 @@ Video   Github See my code and documentation here.</description>
       <guid>/post/6.854/</guid>
       <description>During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
   </description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
     </item>
     
   </channel>

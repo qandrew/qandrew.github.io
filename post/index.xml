@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Thresholdizing Lattice-Based Encryption Schemes</title>
+      <link>/post/thesis/</link>
+      <pubDate>Wed, 10 Apr 2019 20:54:01 -0400</pubDate>
+      
+      <guid>/post/thesis/</guid>
+      <description>Context In this thesis, we apply secret sharing techniques on lattice based encryption schemes, namely fully homomorphic encryption and predicate encryption.
+My thesis is available here.
+I would like to extend special thanks to my advisor Yael Kalai my collaborator Adam Sealfon.</description>
+    </item>
+    
+    <item>
       <title>Cerro El Plomo</title>
       <link>/post/el_plomo/</link>
       <pubDate>Tue, 26 Mar 2019 06:46:36 -0400</pubDate>
@@ -20,6 +31,15 @@
       <guid>/post/el_plomo/</guid>
       <description>I did not summit Cerro El Plomo this past weekend.
 Closing the trip on Sunday night, in Rodrigo&amp;rsquo;s car we descended back down to Santiago from our trailhead, the ski resort of Valle Nevado, at 3000m. The drive back down was a spectacular solace &amp;ndash;up in the mountains, over two kilometers above Chile&amp;rsquo;s primary metropolis, you could see glimpses of the sea of lights peeking between mountain canyons, contrasting the clean clear air and the celestial sky in the highlands with urban civilization, cosmopolitanism, and reality down below.</description>
+    </item>
+    
+    <item>
+      <title>Testing Parallax</title>
+      <link>/post/parallax/</link>
+      <pubDate>Fri, 08 Mar 2019 11:50:20 -0400</pubDate>
+      
+      <guid>/post/parallax/</guid>
+      <description>Andre showed us around the SpaceX headquarters on Thursday night, and it really was an eye-opening watershed moment for me. I had always thought of Space Exploration as something that &amp;ldquo;the other people&amp;rdquo; did, in that we would hear about NASA launches but it always felt far away. This time around Andre took us to the factory, showing posters of the Falcon 9, the Falcon Heavy, the Dragon, and the BFR / Starship that would be massive in size, literally of science fiction proportions, yet realistically launching within a few years.</description>
     </item>
     
     <item>
@@ -173,6 +193,17 @@ Video   Github See my code and documentation here.</description>
       <guid>/post/6.854/</guid>
       <description>During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
   </description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
     </item>
     
     <item>
