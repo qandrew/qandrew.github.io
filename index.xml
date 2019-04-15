@@ -78,6 +78,37 @@
     </item>
     
     <item>
+      <title>Transit in Film</title>
+      <link>/post/transit_film/</link>
+      <pubDate>Tue, 02 Apr 2019 11:50:20 -0400</pubDate>
+      
+      <guid>/post/transit_film/</guid>
+      <description>&lt;p&gt;I recently flew from Sao Paolo to Santiago on an Emirates 777-200LR and I watched &lt;a href=&#34;https://www.zhihu.com/question/25154004&#34; target=&#34;_blank&#34;&gt;一生一世&lt;/a&gt; on the flight back. It made me think about how transportation is portrayed in movies and culture in general.&lt;/p&gt;
+
+&lt;p&gt;In 一生一世 (But Always), set in China and New York City, the Tongjia Hutong bus station holds a lot of symbolic significance, as a place where the two main characters develop their bond as children. Taking the bus &lt;em&gt;together&lt;/em&gt; as children, connecting in the public space, allowed Anran and Yongyuan to form their relationship.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/transit_ch.jpeg&#34; alt=&#34;一生一世&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also recently watched &lt;a href=&#34;https://en.wikipedia.org/wiki/Mulholland_Drive_(film)&#34; target=&#34;_blank&#34;&gt;Mulholland Drive&lt;/a&gt; also on my flight on a LATAM 787-8 Dreamliner from Los Ageless back to Santiago de Chile. Earlier that week when I was in LA, I also drove a rental Volkswagen Beetle along Mulholland Drive along the ridge, feeling Hollywood history through the twists and turns of sin and greed. Betty&amp;rsquo;s trips around the city of angels relies on the taxi, and does not promote opportunities to interact with other humans along the journey. For me personally, the closest that I have felt to first world hell is being stuck in the middle of the seven-lane 405 in the middle of rush hour, feeling helpless, alone, and stuck among a sea of cars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/transit_mulholland.jpg&#34; alt=&#34;Mulholland&#34; /&gt;
+&lt;center&gt;&lt;em&gt;Unfortunately the main way to get around Los Angeles is via private cars&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;In the further past, I also want to use &lt;a href=&#34;https://en.wikipedia.org/wiki/Your_Name&#34; target=&#34;_blank&#34;&gt;君の名は&lt;/a&gt; as another example. In transit-oriented Japan, the train is a key part in life, and Taki and Mitsuha&amp;rsquo;s chance encounters are supported by their daily train rides. When Taki wishes to visit Mitsuha&amp;rsquo;s rural town, he takes multiple trains, a reflection of the transit-oriented culture in Japan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/transit_kimi.jpg&#34; alt=&#34;Mulholland&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my thesis: that transit systems inherently shape human interactions, and the loneliness of the American car, while simultaneously suggesting freedom, is not a medium for social interactions.&lt;/p&gt;
+
+&lt;p&gt;Transportation is something that is both unifying and distinctive among cultures around the world. Though in the 21st century most big cities around the world have similar urban fabric in highways, subways, bike lanes, and pedestrian walkways, the identity of a city and its people is closely shaped by how people get around.&lt;/p&gt;
+
+&lt;p&gt;This brings the question: as our urban mobility changes, how will this affect culture? How will culture and the Hollywood machine react and incorporate ridesharing such as Uber and Lyft in it&amp;rsquo;s depiction of modern times?&lt;/p&gt;
+
+&lt;p&gt;Next, with the rise of last-mile urban mobility in electric scooters and dockless bikes, how will this entry the public sentiment and culture?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cerro El Plomo</title>
       <link>/post/el_plomo/</link>
       <pubDate>Tue, 26 Mar 2019 06:46:36 -0400</pubDate>
@@ -809,28 +840,6 @@ scheme for probabilistic payments in the Lightning Network, which can be utilize
 &lt;/ul&gt;
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Digits via Audio-Visual Representations</title>
-      <link>/post/6.867/</link>
-      <pubDate>Sun, 18 Dec 2016 06:46:36 -0400</pubDate>
-      
-      <guid>/post/6.867/</guid>
-      <description>
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Our goal is to explore models for language learning (in this case learning numerical digits in their spoken and visual representations) in the manner that humans learn languages as children. Namely, children do not have intermediary text transcriptions in corresponding visual and audio inputs from the world around them; rather, they directly make connections between what they see and what they hear. In this paper, we construct models for the direct bi-directional classification of speech and images, inspired by a few research papers. We experiment with architectures of two convolutional neural networks, one on the TIDIGITS data set (audio) and the other on the MNIST data set (visual), to obtain joint representations of single digits from spoken utterances and images. Finally, we experiment with an alignment model that ties together the convnets to learn these joint representations. We report an overall image annotation accuracy of 88.5% and an overall image retrieval accuracy of 87.6%.&lt;/p&gt;
-
-&lt;h3 id=&#34;links-notes&#34;&gt;Links &amp;amp; Notes&lt;/h3&gt;
-
-&lt;p&gt;I worked with Sitara Persad and Karan Kashyap on this final project.&lt;/p&gt;
-
-&lt;p&gt;See our paper writeup &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project/blob/master/6_867_Project_Writeup.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our GitHub repository for the project is available &lt;a href=&#34;https://github.com/qandrew/6.867-Final-Project&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
