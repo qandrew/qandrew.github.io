@@ -18,9 +18,7 @@
       <pubDate>Wed, 10 Apr 2019 20:54:01 -0400</pubDate>
       
       <guid>/post/thesis/</guid>
-      <description>Context In this thesis, we apply secret sharing techniques on lattice based encryption schemes, namely fully homomorphic encryption and predicate encryption.
-My thesis is available here.
-I would like to extend special thanks to my advisor Yael Kalai my collaborator Adam Sealfon.</description>
+      <description>Context / Abstract In this thesis, we apply secret sharing techniques on lattice based encryption schemes, namely fully homomorphic encryption and predicate encryption. Using secret sharing techniques from [BGG+17], we show how to construct paradigms of threshold multi-key fully homomorphic encryption and predicate encryption. Through multi-key fully homomorphic encryption and threshold fully homomorphic encryption, we can construct a low-round multi party computation (MPC) scheme with guaranteed output delivery, assuming honest majority in the semi-honest and malicious settings.</description>
     </item>
     
     <item>
