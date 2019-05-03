@@ -18,11 +18,11 @@
       <guid>/post/airplane/</guid>
       <description>&lt;p&gt;Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.&lt;/p&gt;
 
-&lt;div class=&#34;row andrew-photo&#34;&gt;
+&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6 andrew-photo&#34;&gt;
-    &lt;img class=&#34;andrew-photo&#34; src=&#34;/img/airplane/inNout.jpg&#34; alt=&#34;Dog&#34;&gt;
+    &lt;img src=&#34;/img/airplane/inNout.jpg&#34; alt=&#34;Dog&#34;&gt;
     &lt;!-- &lt;center class=&#34;bluehu&#34;&gt;TBD | Los Angeles, CA | Mar 2019&lt;/center&gt; --&gt;
-    &lt;img src=&#34;/img/airplane/pek.jpg&#34; alt=&#34;Dog&#34;&gt;
+    &lt;img class=&#34;andrew-photo-img&#34; src=&#34;/img/airplane/pek.jpg&#34; alt=&#34;Dog&#34;&gt;
     &lt;img src=&#34;/img/airplane/sq_lhr.jpg&#34; alt=&#34;Dog&#34;&gt;
     &lt;img src=&#34;/img/airplane/ua747.jpg&#34; alt=&#34;Dog&#34;&gt;
   &lt;/div&gt;
