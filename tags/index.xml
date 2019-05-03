@@ -22,32 +22,23 @@
     </item>
     
     <item>
-      <title>Art</title>
-      <link>/tags/art/</link>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/art/</guid>
-      <description>Here&amp;rsquo;s a collection of all the art that I&amp;rsquo;ve done. You can view more of my video and photography through the bolded links.</description>
+      <guid>/tags/blog/</guid>
+      <description>Here is a list of all the content that has been tagged as blog. This includes mostly my ramblings and thoughts.</description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>/tags/photo/</link>
+      <link>/tags/photovideo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/photo/</guid>
-      <description> Here is a list of all the content that has been tagged as photo.
+      <guid>/tags/photovideo/</guid>
+      <description> Here is a list of all the content that has been tagged as photovideo, and a collection of some of the photography and videography I have done in the past.
 This page is still under construction! Here is a selected list of some events I shot:
  East Campus Fire Safety Day | MIT News Sept 2018 Alumni Tech Reunions 2018 | Technology Review June 2018 MIT Technique 2017 Yearbook June 2017 MIT Ski Team Proctor Race Jan 2017 MIT DanceTroupe Spring 2016 Shows May 2016 MIT Spinning Arts CPW Show Apr 2016  </description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>/tags/video/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/video/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -56,15 +47,6 @@ This page is still under construction! Here is a selected list of some events I 
       <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
       
       <guid>/tags/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
-      
-      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     

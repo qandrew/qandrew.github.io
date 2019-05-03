@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video on Andrew Xia</title>
-    <link>/tags/video/</link>
-    <description>Recent content in Video on Andrew Xia</description>
+    <title>Photography on Andrew Xia</title>
+    <link>/tags/photovideo/</link>
+    <description>Recent content in Photography on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Xia</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/photovideo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Airplane Photography</title>
+      <link>/post/airplane/</link>
+      <pubDate>Wed, 01 May 2019 06:46:36 -0400</pubDate>
+      
+      <guid>/post/airplane/</guid>
+      <description>Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.
+TBD | Los Angeles, CA | Mar 2019 --    --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- </description>
+    </item>
     
     <item>
       <title>6.875 Cryptography &amp; Cryptanalysis Lecture Videos</title>

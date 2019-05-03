@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/airplane/</loc>
+      <lastmod>2019-05-01T06:46:36-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2019_04_links/</loc>
       <lastmod>2019-04-28T11:50:20-04:00</lastmod>
     </url>
@@ -164,7 +172,7 @@
     
     <url>
     
-      <loc>/tags/art/</loc>
+      <loc>/tags/blog/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -172,15 +180,7 @@
     
     <url>
     
-      <loc>/tags/photo/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/video/</loc>
+      <loc>/tags/photovideo/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -313,15 +313,6 @@
     <url>
     
       <loc>/tags/articles/</loc>
-      <lastmod>2019-04-28T11:50:20-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/blog/</loc>
       <lastmod>2019-04-28T11:50:20-04:00</lastmod>
       <priority>0</priority>
     </url>

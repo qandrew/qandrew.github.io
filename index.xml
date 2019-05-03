@@ -11,6 +11,70 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Airplane Photography</title>
+      <link>/post/airplane/</link>
+      <pubDate>Wed, 01 May 2019 06:46:36 -0400</pubDate>
+      
+      <guid>/post/airplane/</guid>
+      <description>&lt;p&gt;Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.&lt;/p&gt;
+
+&lt;div class=&#34;row andrew-photo&#34;&gt;
+  &lt;div class=&#34;col-sm-6 andrew-photo&#34;&gt;
+    &lt;img class=&#34;andrew-photo&#34; src=&#34;/img/airplane/inNout.jpg&#34; alt=&#34;Dog&#34;&gt;
+    &lt;!-- &lt;center class=&#34;bluehu&#34;&gt;TBD | Los Angeles, CA | Mar 2019&lt;/center&gt; --&gt;
+    &lt;img src=&#34;/img/airplane/pek.jpg&#34; alt=&#34;Dog&#34;&gt;
+    &lt;img src=&#34;/img/airplane/sq_lhr.jpg&#34; alt=&#34;Dog&#34;&gt;
+    &lt;img src=&#34;/img/airplane/ua747.jpg&#34; alt=&#34;Dog&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6 andrew-photo&#34;&gt;
+    &lt;img src=&#34;/img/airplane/wow_bos.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+    &lt;img src=&#34;/img/airplane/sky.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+    &lt;img src=&#34;/img/airplane/d-abyt.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+    &lt;img src=&#34;/img/airplane/jfk_me.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+  &lt;/div&gt;
+  &lt;!-- &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;img src=&#34;/img/1903_el_plomo/me.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+  &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&#34;row andrew-photo&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;img src=&#34;/img/airplane/inNout.jpg&#34; alt=&#34;Dog&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;img src=&#34;/img/airplane/wow_bos.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+    &lt;img src=&#34;/img/airplane/sky.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;img src=&#34;/img/1903_el_plomo/me.jpg&#34; alt=&#34;Italian Trulli&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;!-- &lt;span class=&#34;image fit&#34;&gt;&lt;a href=&#34;#&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/airplane/jfk_me.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/a&gt;&lt;/span&gt; --&gt;
+
+&lt;!-- &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;span class=&#34;image fit&#34;&gt;&lt;a href=&#34;&#34;&gt;&lt;img src=&#34;/img/airplane/jfk_me.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/a&gt;&lt;/span&gt;
+
+&lt;div id=&#34;hidden&#34;&gt;
+Full Screen Div
+&lt;div class=&#34;close&#34;&gt;X&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&#34;text/jquery&#34;&gt;
+  $(document).ready(function() {
+    $(&#39;a&#39;).click( function(e) {
+        e.preventDefault();
+        $(&#34;#hidden&#34;).show();
+    });
+    $(&#39;.close&#39;).click(function(){
+        $(&#34;#hidden&#34;).hide();
+    })
+  });
+&lt;/script&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>April 2019 Articles</title>
       <link>/post/2019_04_links/</link>
       <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
@@ -864,29 +928,6 @@ scheme for probabilistic payments in the Lightning Network, which can be utilize
 &lt;p&gt;View our paper on our implementation &lt;a href=&#34;/files/6.824.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The link to the github repository with our source code is available &lt;a href=&#34;https://github.com/qandrew/6.824-fp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hack Punt Tool</title>
-      <link>/post/hpt/</link>
-      <pubDate>Thu, 18 May 2017 06:47:13 -0400</pubDate>
-      
-      <guid>/post/hpt/</guid>
-      <description>
-
-&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
-
-&lt;p&gt;Along with MIT Student Cable, I helped film MIT&amp;rsquo;s Musical Theater Guild (&lt;a href=&#34;http://www.mit.edu/~mtg/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;MTG&lt;/strong&gt;&lt;/a&gt;)&amp;rsquo;s IAP 2017 production of &lt;em&gt;Hack, Punt, Tool&lt;/em&gt;, which is an original musical about a fictional group of MIT students working on building a Hack at MIT.&lt;/p&gt;
-
-&lt;p&gt;Please enjoy the video below!
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/IPpqXyo4jhM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The lenses we used included a Nikon 70-200mm f2.8, Panasonic 7-14mm f4.0.&lt;/p&gt;
 </description>
     </item>
     
