@@ -13,13 +13,26 @@
     
     
     <item>
+      <title>How to travel the Last Mile: Urban Mobility Options</title>
+      <link>/post/lastmile/</link>
+      <pubDate>Mon, 13 May 2019 06:46:36 -0400</pubDate>
+      
+      <guid>/post/lastmile/</guid>
+      <description>Hi! As a passionate transit-oriented teen, I wanted to write this blog post to detail how multi-modal transportation options can be used to best fit one&amp;rsquo;s transportation needs. For context, I am currently a student based in Santiago de Chile (May 2019).
+Here are my realistic transportation options:
+ I could either walk or run, as my human-powered mobility options. I could bike (or ride an electric scooter, skateboard etc), if I owned these micromobility options.</description>
+    </item>
+    
+    <item>
       <title>Airplane Photography</title>
       <link>/post/airplane/</link>
       <pubDate>Wed, 01 May 2019 06:46:36 -0400</pubDate>
       
       <guid>/post/airplane/</guid>
       <description>Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.
-TBD | Los Angeles, CA | Mar 2019 --    --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- </description>
+TBD | Los Angeles, CA | Mar 2019 --     --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- https://www.fancyapps.com/fancybox/3/
+ 
+    --  </description>
     </item>
     
     <item>

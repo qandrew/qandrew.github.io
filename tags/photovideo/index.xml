@@ -19,7 +19,9 @@
       
       <guid>/post/airplane/</guid>
       <description>Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.
-TBD | Los Angeles, CA | Mar 2019 --    --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- </description>
+TBD | Los Angeles, CA | Mar 2019 --     --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- https://www.fancyapps.com/fancybox/3/
+ 
+    --  </description>
     </item>
     
     <item>
