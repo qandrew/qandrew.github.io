@@ -1,66 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photography on Andrew Xia</title>
-    <link>/tags/photovideo/</link>
-    <description>Recent content in Photography on Andrew Xia</description>
+    <title>photovideo on Andrew Xia</title>
+    <link>https://qandrew.github.io/tags/photovideo/</link>
+    <description>Recent content in photovideo on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 06:46:36 -0400</lastBuildDate>
     
-	<atom:link href="/tags/photovideo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qandrew.github.io/tags/photovideo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Airplane Photography</title>
-      <link>/post/airplane/</link>
-      <pubDate>Wed, 01 May 2019 06:46:36 -0400</pubDate>
-      
-      <guid>/post/airplane/</guid>
-      <description>Here is a collection of some of my airplane photography. I am working on making this website more aesthetically pleasing 😊.
-TBD | Los Angeles, CA | Mar 2019 --     --      --  --   Full Screen Div X  $(document).ready(function() { $(&#39;a&#39;).click( function(e) { e.preventDefault(); $(&#34;#hidden&#34;).show(); }); $(&#39;.close&#39;).click(function(){ $(&#34;#hidden&#34;).hide(); }) });  -- https://www.fancyapps.com/fancybox/3/
- 
-    --  </description>
-    </item>
     
     <item>
       <title>6.875 Cryptography &amp; Cryptanalysis Lecture Videos</title>
-      <link>/post/6.875/</link>
+      <link>https://qandrew.github.io/blog/6.875/</link>
       <pubDate>Thu, 31 May 2018 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.875/</guid>
-      <description>During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&amp;rsquo;s Cryptography &amp;amp; Cryptanalysis (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
-  Selected Press The lecture videos were featured on Hacker News.</description>
+      <guid>https://qandrew.github.io/blog/6.875/</guid>
+      <description>During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&#39;s Cryptography &amp;amp; Cryptanalysis (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+   Selected Press The lecture videos were featured on Hacker News.</description>
     </item>
     
     <item>
       <title>Hack Punt Tool</title>
-      <link>/post/hpt/</link>
+      <link>https://qandrew.github.io/blog/hpt/</link>
       <pubDate>Thu, 18 May 2017 06:47:13 -0400</pubDate>
       
-      <guid>/post/hpt/</guid>
-      <description>Context Along with MIT Student Cable, I helped film MIT&amp;rsquo;s Musical Theater Guild (MTG)&amp;rsquo;s IAP 2017 production of Hack, Punt, Tool, which is an original musical about a fictional group of MIT students working on building a Hack at MIT.
-Please enjoy the video below!   The lenses we used included a Nikon 70-200mm f2.8, Panasonic 7-14mm f4.0.</description>
+      <guid>https://qandrew.github.io/blog/hpt/</guid>
+      <description>Context Along with MIT Student Cable, I helped film MIT&#39;s Musical Theater Guild (MTG)&amp;lsquo;s IAP 2017 production of Hack, Punt, Tool, which is an original musical about a fictional group of MIT students working on building a Hack at MIT.
+Please enjoy the video below!   The lenses we used included a Nikon 70-200mm f2.8, Panasonic 7-14mm f4.0.
+  </description>
     </item>
     
     <item>
       <title>Summer 2016 Vlogs</title>
-      <link>/post/2016_videos/</link>
+      <link>https://qandrew.github.io/blog/2016_videos/</link>
       <pubDate>Tue, 28 Jun 2016 06:47:13 -0400</pubDate>
       
-      <guid>/post/2016_videos/</guid>
+      <guid>https://qandrew.github.io/blog/2016_videos/</guid>
       <description>Context During the summer of 2016, I made a series of vlogs documenting my travels through Asia. My friend Jingyi Zhao and I took a one week trip to Thailand before heading to Tokyo for a week to participate in the MUSCAT program organized by the university of Tokyo. Here are four videos that I made documenting the trip.
-1. Flight to Thailand   2. Bangkok   3.</description>
+1. Flight to Thailand   2. Bangkok   3. Chiang Mai   4.</description>
     </item>
     
     <item>
       <title>6.854 Advanced Algorithms Lecture Videos</title>
-      <link>/post/6.854/</link>
+      <link>https://qandrew.github.io/blog/6.854/</link>
       <pubDate>Wed, 18 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.854/</guid>
-      <description>During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+      <guid>https://qandrew.github.io/blog/6.854/</guid>
+      <description>During the Spring 2016 Semester, I took Ankur Moitra&#39;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&#39;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
   </description>
     </item>
     

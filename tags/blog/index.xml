@@ -1,147 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Andrew Xia</title>
-    <link>/tags/blog/</link>
-    <description>Recent content in Blog on Andrew Xia</description>
+    <title>blog on Andrew Xia</title>
+    <link>https://qandrew.github.io/tags/blog/</link>
+    <description>Recent content in blog on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 06:46:36 -0400</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qandrew.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>El Eclipse Solar</title>
-      <link>/post/eclipse/</link>
+      <link>https://qandrew.github.io/blog/eclipse/</link>
       <pubDate>Wed, 17 Jul 2019 06:46:36 -0400</pubDate>
       
-      <guid>/post/eclipse/</guid>
+      <guid>https://qandrew.github.io/blog/eclipse/</guid>
       <description>I had been wanting to see a solar eclipse since when I first learned about them in first grade, and I distinctly remember in second grade while I was doing 体操 at 图强二小, I would look up directly at the sun, hoping to see an eclipse, and my mind would play games with me simulating how an eclipse may look. As a relatively rare natural phenomenon, occurring once every 18 months in a very lucky region of the world, it had always been my dream to witness one.</description>
     </item>
     
     <item>
       <title>How to travel the Last Mile: Urban Mobility Options</title>
-      <link>/post/lastmile/</link>
+      <link>https://qandrew.github.io/blog/lastmile/</link>
       <pubDate>Mon, 13 May 2019 06:46:36 -0400</pubDate>
       
-      <guid>/post/lastmile/</guid>
-      <description>Hi! As a passionate transit-oriented teen, I wanted to write this blog post to detail how multi-modal transportation options can be used to best fit one&amp;rsquo;s transportation needs. For context, I am currently a student based in Santiago de Chile (May 2019).
+      <guid>https://qandrew.github.io/blog/lastmile/</guid>
+      <description>Hi! As a passionate transit-oriented teen, I wanted to write this blog post to detail how multi-modal transportation options can be used to best fit one&#39;s transportation needs. For context, I am currently a student based in Santiago de Chile (May 2019).
 Here are my realistic transportation options:
  I could either walk or run, as my human-powered mobility options. I could bike (or ride an electric scooter, skateboard etc), if I owned these micromobility options.</description>
     </item>
     
     <item>
       <title>April 2019 Articles</title>
-      <link>/post/2019_04_links/</link>
+      <link>https://qandrew.github.io/blog/2019_04_links/</link>
       <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
       
-      <guid>/post/2019_04_links/</guid>
-      <description>Hi all! I thought I&amp;rsquo;d update y&amp;rsquo;all with some of my recent readings/watchings on the internet. (The picture above was taken in April 2019 during a hike to Cerro de la Cruz)
+      <guid>https://qandrew.github.io/blog/2019_04_links/</guid>
+      <description>Hi all! I thought I&#39;d update y&#39;all with some of my recent readings/watchings on the internet. (The picture above was taken in April 2019 during a hike to Cerro de la Cruz)
 Thoughts on Life  How to Pick a Career (That Actually Fits You) | Wait But Why Wait but why has a nice illustration here of post-undergraduate meaning, in which our life paths are no-longer linear. I did not read the whole article but bits of it were inspiring.</description>
     </item>
     
     <item>
-      <title>Transit in Film</title>
-      <link>/post/transit_film/</link>
-      <pubDate>Tue, 02 Apr 2019 11:50:20 -0400</pubDate>
-      
-      <guid>/post/transit_film/</guid>
-      <description>I recently flew from Sao Paolo to Santiago on an Emirates 777-200LR and I watched 一生一世 on the flight back. It made me think about how transportation is portrayed in movies and culture in general.
-In 一生一世 (But Always), set in China and New York City, the Tongjia Hutong bus station holds a lot of symbolic significance, as a place where the two main characters develop their bond as children. Taking the bus together as children, connecting in the public space, allowed Anran and Yongyuan to form their relationship.</description>
-    </item>
-    
-    <item>
       <title>Cerro El Plomo</title>
-      <link>/post/el_plomo/</link>
+      <link>https://qandrew.github.io/blog/el_plomo/</link>
       <pubDate>Tue, 26 Mar 2019 06:46:36 -0400</pubDate>
       
-      <guid>/post/el_plomo/</guid>
+      <guid>https://qandrew.github.io/blog/el_plomo/</guid>
       <description>I did not summit Cerro El Plomo this past weekend.
-Closing the trip on Sunday night, in Rodrigo&amp;rsquo;s car we descended back down to Santiago from our trailhead, the ski resort of Valle Nevado, at 3000m. The drive back down was a spectacular solace &amp;ndash;up in the mountains, over two kilometers above Chile&amp;rsquo;s primary metropolis, you could see glimpses of the sea of lights peeking between mountain canyons, contrasting the clean clear air and the celestial sky in the highlands with urban civilization, cosmopolitanism, and reality down below.</description>
+Closing the trip on Sunday night, in Rodrigo&#39;s car we descended back down to Santiago from our trailhead, the ski resort of Valle Nevado, at 3000m. The drive back down was a spectacular solace &amp;ndash;up in the mountains, over two kilometers above Chile&#39;s primary metropolis, you could see glimpses of the sea of lights peeking between mountain canyons, contrasting the clean clear air and the celestial sky in the highlands with urban civilization, cosmopolitanism, and reality down below.</description>
     </item>
     
     <item>
       <title>January 2019 Articles</title>
-      <link>/post/2019_01_links/</link>
+      <link>https://qandrew.github.io/blog/2019_01_links/</link>
       <pubDate>Sun, 03 Feb 2019 11:50:20 -0400</pubDate>
       
-      <guid>/post/2019_01_links/</guid>
-      <description>Hi all! I thought I&amp;rsquo;d update y&amp;rsquo;all with some of my recent readings/watchings on the internet.
-Business Articles  Behind the Big Promises of the Micromobility Industry | CityLab What is the future of transportation? While there is industry hype on self-driving cars, I personally believe that micromobility (dockless bikes and scooters) are the nearer term solution. Fyre: The Greatest Party that Never Happened | Netflix This Netflix documentary, along with Hulu&amp;rsquo;s take on the Fyre festival, is an introspective take on a failed music festival in 2017 and the lead-up to the disaster.</description>
+      <guid>https://qandrew.github.io/blog/2019_01_links/</guid>
+      <description>Hi all! I thought I&#39;d update y&#39;all with some of my recent readings/watchings on the internet. Above is a picture from our hike in El Cani, Chile, Jan 2019.
+Business Articles  Behind the Big Promises of the Micromobility Industry | CityLab What is the future of transportation? While there is industry hype on self-driving cars, I personally believe that micromobility (dockless bikes and scooters) are the nearer term solution. Fyre: The Greatest Party that Never Happened | Netflix This Netflix documentary, along with Hulu&#39;s take on the Fyre festival, is an introspective take on a failed music festival in 2017 and the lead-up to the disaster.</description>
     </item>
     
     <item>
       <title>Hiking in 2018</title>
-      <link>/post/hiking/</link>
+      <link>https://qandrew.github.io/blog/hiking/</link>
       <pubDate>Sun, 16 Dec 2018 06:46:36 -0400</pubDate>
       
-      <guid>/post/hiking/</guid>
-      <description>I should probably be writing my thesis for my MEng, but I&amp;rsquo;ll start off kindling the writing part of my mind by procrastinating for a bit.
-In the past year after I completed my undergraduate degree, I&amp;rsquo;ve been slowing spending more time finding more about who I am. During the MIT undergraduate semesters, which was one of the best times of my life, I had a lot on my plate, from rushing problem set deadline to photography event to party &amp;ndash;it was the work-hard, play-hard lifestyle.</description>
-    </item>
-    
-    <item>
-      <title>August 2018 Articles</title>
-      <link>/post/2018_08_links/</link>
-      <pubDate>Mon, 03 Sep 2018 11:50:20 -0400</pubDate>
-      
-      <guid>/post/2018_08_links/</guid>
-      <description>I keep a journal entry to write down my thoughts and also my day to day life (who I hang out with, where I eat etc), though recently I decided to also start keeping track of my digital history, a series of links of articles / websites that I&amp;rsquo;ve found interesting. Here are some that I&amp;rsquo;d like to share.
-Transit Articles  Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story | CityLab: this is a good CityLab article about the history of public transit in the US, it&amp;rsquo;s rise in the early 20th century, and its demise as automobiles became more prevalent in this country in the ensuing decades.</description>
+      <guid>https://qandrew.github.io/blog/hiking/</guid>
+      <description>I should probably be writing my thesis for my MEng, but I&#39;ll start off kindling the writing part of my mind by procrastinating for a bit.
+In the past year after I completed my undergraduate degree, I&#39;ve been slowing spending more time finding more about who I am. During the MIT undergraduate semesters, which was one of the best times of my life, I had a lot on my plate, from rushing problem set deadline to photography event to party &amp;ndash;it was the work-hard, play-hard lifestyle.</description>
     </item>
     
     <item>
       <title>Thoughts on Urban Planning and Such</title>
-      <link>/post/2018_urban/</link>
+      <link>https://qandrew.github.io/blog/2018_urban/</link>
       <pubDate>Tue, 26 Jun 2018 11:50:20 -0400</pubDate>
       
-      <guid>/post/2018_urban/</guid>
-      <description>Hello, and I guess I am back to [attempting to] blogging. I thought I&amp;rsquo;d try to consolidate my thoughts and interests on urban planning and related topics in this blog post. Growing up, I&amp;rsquo;ve always had an interest in transportation related topics. Whether it be city planning, trains (mass transit or high-speed rail), airplanes, or cars, my interests have drifted in and out of these areas.
-Clapham North, one of the two remaining stations in the London Underground with a true deep-tube island platform.</description>
-    </item>
-    
-    <item>
-      <title>Tips on Basic Financial Management</title>
-      <link>/post/moneybasics/</link>
-      <pubDate>Sun, 20 Aug 2017 14:19:42 -0400</pubDate>
-      
-      <guid>/post/moneybasics/</guid>
-      <description>Continuing from my previous post on credit cards, I&amp;rsquo;ll detail some of my money management habits that might be helpful for others.
-Here, I&amp;rsquo;ll talk about opening bank accounts, maximizing rewards, and some basic investment tips.
-Bank Accounts  Open a savings account like GS Bank and earn 1.2% interest every year.
- If you do not have a bank account, I would definitely recommend getting one. It&amp;rsquo;s nice to have money stored in a bank rather than having to carry cash around, make purchases on the internet, and certain banks also offer nice interest rates so your money will grow by just sitting there.</description>
-    </item>
-    
-    <item>
-      <title>Tips on Credit Cards</title>
-      <link>/post/creditcard/</link>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/creditcard/</guid>
-      <description>Hello, this is my first blog post in a while :) I&amp;rsquo;ll keep to a minimalist writing style so reading this blog can be as fast and as helpful as possible.
-Credit Cards A credit card is a payment system. When you use a credit card to buy an item, you are effectively borrowing money from the bank, and you can pay the bank back within a subsequent 25-30 day period.</description>
+      <guid>https://qandrew.github.io/blog/2018_urban/</guid>
+      <description>A collection of thoughts and links on trains, planes, and more</description>
     </item>
     
     <item>
       <title>Summer 2016 Vlogs</title>
-      <link>/post/2016_videos/</link>
+      <link>https://qandrew.github.io/blog/2016_videos/</link>
       <pubDate>Tue, 28 Jun 2016 06:47:13 -0400</pubDate>
       
-      <guid>/post/2016_videos/</guid>
+      <guid>https://qandrew.github.io/blog/2016_videos/</guid>
       <description>Context During the summer of 2016, I made a series of vlogs documenting my travels through Asia. My friend Jingyi Zhao and I took a one week trip to Thailand before heading to Tokyo for a week to participate in the MUSCAT program organized by the university of Tokyo. Here are four videos that I made documenting the trip.
-1. Flight to Thailand   2. Bangkok   3.</description>
+1. Flight to Thailand   2. Bangkok   3. Chiang Mai   4.</description>
     </item>
     
     <item>
       <title>MIT Sophomore Mixer Series</title>
-      <link>/post/mixer_series/</link>
+      <link>https://qandrew.github.io/blog/2015_mixer_series/</link>
       <pubDate>Mon, 15 Jun 2015 11:50:20 -0400</pubDate>
       
-      <guid>/post/mixer_series/</guid>
+      <guid>https://qandrew.github.io/blog/2015_mixer_series/</guid>
       <description>Over IAP 2015 (MIT Speak for our January break), Justine Jang and I worked with Fred Daso and the MIT 2017 Class Council on the Mixer Series project as a way to connect MIT sophomores with each other.
-What we did MIT is a very diverse community, but students are very busy. So how does one meet new people outside of her daily life cycle of classes, clubs, psetting, and her friend group?</description>
+ What we did MIT is a very diverse community, but students are very busy. So how does one meet new people outside of her daily life cycle of classes, clubs, psetting, and her friend group?</description>
     </item>
     
   </channel>

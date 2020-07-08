@@ -1,70 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew Xia</title>
-    <link>/tags/</link>
+    <link>https://qandrew.github.io/tags/</link>
     <description>Recent content in Tags on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 06:46:36 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qandrew.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>https://qandrew.github.io/tags/blog/</link>
+      <pubDate>Wed, 17 Jul 2019 06:46:36 -0400</pubDate>
       
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic. This includes my selected projects &amp;amp; research.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blog/</guid>
-      <description>Here is a list of all the content that has been tagged as blog. This includes mostly my ramblings and thoughts.</description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>/tags/photovideo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/photovideo/</guid>
-      <description> Here is a list of all the content that has been tagged as photovideo, and a collection of some of the photography and videography I have done in the past.
-This page is still under construction! Here is a selected list of some events I shot:
- East Campus Fire Safety Day | MIT News Sept 2018 Alumni Tech Reunions 2018 | Technology Review June 2018 MIT Technique 2017 Yearbook June 2017 MIT Ski Team Proctor Race Jan 2017 MIT DanceTroupe Spring 2016 Shows May 2016 MIT Spinning Arts CPW Show Apr 2016  </description>
-    </item>
-    
-    <item>
-      <title>articles</title>
-      <link>/tags/articles/</link>
-      <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
-      
-      <guid>/tags/articles/</guid>
+      <guid>https://qandrew.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hiking</title>
-      <link>/tags/hiking/</link>
+      <link>https://qandrew.github.io/tags/hiking/</link>
       <pubDate>Wed, 17 Jul 2019 06:46:36 -0400</pubDate>
       
-      <guid>/tags/hiking/</guid>
+      <guid>https://qandrew.github.io/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>articles</title>
+      <link>https://qandrew.github.io/tags/articles/</link>
+      <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://qandrew.github.io/tags/academic/</link>
+      <pubDate>Sat, 26 Jan 2019 20:54:01 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photovideo</title>
+      <link>https://qandrew.github.io/tags/photovideo/</link>
+      <pubDate>Thu, 31 May 2018 06:46:36 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/tags/photovideo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>/tags/projects/</link>
+      <link>https://qandrew.github.io/tags/projects/</link>
       <pubDate>Mon, 15 Jun 2015 11:50:20 -0400</pubDate>
       
-      <guid>/tags/projects/</guid>
+      <guid>https://qandrew.github.io/tags/projects/</guid>
       <description></description>
     </item>
     

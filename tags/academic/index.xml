@@ -1,63 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Andrew Xia</title>
-    <link>/tags/academic/</link>
-    <description>Recent content in Academic on Andrew Xia</description>
+    <title>academic on Andrew Xia</title>
+    <link>https://qandrew.github.io/tags/academic/</link>
+    <description>Recent content in academic on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 20:54:01 -0400</lastBuildDate>
     
-	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qandrew.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Thresholdizing Lattice-Based Encryption Schemes</title>
-      <link>/post/thesis/</link>
-      <pubDate>Wed, 10 Apr 2019 20:54:01 -0400</pubDate>
+      <title>Cryptography Work</title>
+      <link>https://qandrew.github.io/blog/crypto/</link>
+      <pubDate>Sat, 26 Jan 2019 20:54:01 -0400</pubDate>
       
-      <guid>/post/thesis/</guid>
-      <description>Context / Abstract In this thesis, we apply secret sharing techniques on lattice based encryption schemes, namely fully homomorphic encryption and predicate encryption. Using secret sharing techniques from [BGG+17], we show how to construct paradigms of threshold multi-key fully homomorphic encryption and predicate encryption. Through multi-key fully homomorphic encryption and threshold fully homomorphic encryption, we can construct a low-round multi party computation (MPC) scheme with guaranteed output delivery, assuming honest majority in the semi-honest and malicious settings.</description>
+      <guid>https://qandrew.github.io/blog/crypto/</guid>
+      <description>Below is a series of summaries of my research in cryptography while I was a student at MIT.
+Implementation of a Practical Leakage-Resilient ID Scheme (2016-2018) For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices, working with Utsav Banerjee, Chiraag Juvekar and Prof. Anantha Chandrakasan.</description>
     </item>
     
     <item>
       <title>6.875 Cryptography &amp; Cryptanalysis Lecture Videos</title>
-      <link>/post/6.875/</link>
+      <link>https://qandrew.github.io/blog/6.875/</link>
       <pubDate>Thu, 31 May 2018 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.875/</guid>
-      <description>During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&amp;rsquo;s Cryptography &amp;amp; Cryptanalysis (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
-  Selected Press The lecture videos were featured on Hacker News.</description>
-    </item>
-    
-    <item>
-      <title>Leakage Resilient Public Key Authentication for Embedded Devices</title>
-      <link>/post/2017_superurop/</link>
-      <pubDate>Mon, 29 May 2017 16:09:12 -0400</pubDate>
-      
-      <guid>/post/2017_superurop/</guid>
-      <description>For my senior year at MIT, I participated in the MIT SuperUROP program as a MITRE Undergraduate Research and Innovation Scholar. My research topic was Implementing Leakage Resilient, Public Key Authentication Systems for Embedded Devices, working with Chiraag Juvekar and Prof. Anantha Chandrakasan.
-This work was presented at EECScon. An extension of this work, with my collaborators, is currently in submission.
-Abstract Having an effective and convenient authentication system is necessary for the future development and increased usage of devices in the Internet of Things.</description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Lightning</title>
-      <link>/post/6.857/</link>
-      <pubDate>Sun, 28 May 2017 06:46:36 -0400</pubDate>
-      
-      <guid>/post/6.857/</guid>
-      <description>For our 6.857 (network security) final project, in a group project with Jamie Bloxham, Gina Yuan, and Justine Jang, we implemented probabilistic payments on the bitcoin lightning project. The bitcoin lightning is a peer-to-peer system that allows transactions between parties to be conducted off the main blockchain, reducing transaction costs.
-Abstract With regular Bitcoin transactions, low-value, high-frequency payments are increasingly impractical due to increasingly significant mining fees that must be paid with each transaction.</description>
+      <guid>https://qandrew.github.io/blog/6.875/</guid>
+      <description>During the Spring 2018 Semester, I took Vinod Vaikuntanathan and Shafi Goldwasser&#39;s Cryptography &amp;amp; Cryptanalysis (6.875) class. I filmed all but one lecture (oops I lost the video on MPC somwhere in the middle of class), providing a resource for current and future students to access the wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+   Selected Press The lecture videos were featured on Hacker News.</description>
     </item>
     
     <item>
       <title>ORGanized Interactions</title>
-      <link>/post/6.824/</link>
+      <link>https://qandrew.github.io/blog/6.824/</link>
       <pubDate>Fri, 26 May 2017 20:54:01 -0400</pubDate>
       
-      <guid>/post/6.824/</guid>
+      <guid>https://qandrew.github.io/blog/6.824/</guid>
       <description>Context For our final project for the Distributed Systems Class at MIT (6.824), we have successfully implemented a command line interface text editor, such that multiple clients can collaborate on a single document and attain eventual consistency in the document through the use of operational transforms.
 View our paper on our implementation here.
 The link to the github repository with our source code is available here.</description>
@@ -65,30 +43,30 @@ The link to the github repository with our source code is available here.</descr
     
     <item>
       <title>Learning Digits via Audio-Visual Representations</title>
-      <link>/post/6.867/</link>
+      <link>https://qandrew.github.io/blog/6.867/</link>
       <pubDate>Sun, 18 Dec 2016 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.867/</guid>
+      <guid>https://qandrew.github.io/blog/6.867/</guid>
       <description>Abstract Our goal is to explore models for language learning (in this case learning numerical digits in their spoken and visual representations) in the manner that humans learn languages as children. Namely, children do not have intermediary text transcriptions in corresponding visual and audio inputs from the world around them; rather, they directly make connections between what they see and what they hear. In this paper, we construct models for the direct bi-directional classification of speech and images, inspired by a few research papers.</description>
     </item>
     
     <item>
       <title>3D Tic Tac Toe AI</title>
-      <link>/post/6.115/</link>
+      <link>https://qandrew.github.io/blog/6.115/</link>
       <pubDate>Sat, 28 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.115/</guid>
+      <guid>https://qandrew.github.io/blog/6.115/</guid>
       <description>For my final project, I built a 3D Tic Tac Toe game, complete with an AI for the user to play against. The input of the game used capacitave based sensing chips, and the output of the game was displayed on a VGA screen. I used my 8051 and R31JP to connect with my PSoC to process the user input and game engine.
 Video   Github See my code and documentation here.</description>
     </item>
     
     <item>
       <title>6.854 Advanced Algorithms Lecture Videos</title>
-      <link>/post/6.854/</link>
+      <link>https://qandrew.github.io/blog/6.854/</link>
       <pubDate>Wed, 18 May 2016 06:46:36 -0400</pubDate>
       
-      <guid>/post/6.854/</guid>
-      <description>During the Spring 2016 Semester, I took Ankur Moitra&amp;rsquo;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&amp;rsquo;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
+      <guid>https://qandrew.github.io/blog/6.854/</guid>
+      <description>During the Spring 2016 Semester, I took Ankur Moitra&#39;s Advanced Algorithms (6.854) class. With the help of my friends Sitara Persad and Shraman Ray Chaudhuri, we filmed all but two lectures, providing a resource for current and future students to access Prof. Moitra&#39;s wonderful lectures. You can view the playlist here. The first recorded lecture is embedded below.
   </description>
     </item>
     

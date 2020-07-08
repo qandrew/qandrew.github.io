@@ -1,45 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>articles on Andrew Xia</title>
-    <link>/tags/articles/</link>
+    <link>https://qandrew.github.io/tags/articles/</link>
     <description>Recent content in articles on Andrew Xia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Andrew Xia</copyright>
     <lastBuildDate>Sun, 28 Apr 2019 11:50:20 -0400</lastBuildDate>
     
-	<atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qandrew.github.io/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>April 2019 Articles</title>
-      <link>/post/2019_04_links/</link>
+      <link>https://qandrew.github.io/blog/2019_04_links/</link>
       <pubDate>Sun, 28 Apr 2019 11:50:20 -0400</pubDate>
       
-      <guid>/post/2019_04_links/</guid>
-      <description>Hi all! I thought I&amp;rsquo;d update y&amp;rsquo;all with some of my recent readings/watchings on the internet. (The picture above was taken in April 2019 during a hike to Cerro de la Cruz)
+      <guid>https://qandrew.github.io/blog/2019_04_links/</guid>
+      <description>Hi all! I thought I&#39;d update y&#39;all with some of my recent readings/watchings on the internet. (The picture above was taken in April 2019 during a hike to Cerro de la Cruz)
 Thoughts on Life  How to Pick a Career (That Actually Fits You) | Wait But Why Wait but why has a nice illustration here of post-undergraduate meaning, in which our life paths are no-longer linear. I did not read the whole article but bits of it were inspiring.</description>
     </item>
     
     <item>
       <title>January 2019 Articles</title>
-      <link>/post/2019_01_links/</link>
+      <link>https://qandrew.github.io/blog/2019_01_links/</link>
       <pubDate>Sun, 03 Feb 2019 11:50:20 -0400</pubDate>
       
-      <guid>/post/2019_01_links/</guid>
-      <description>Hi all! I thought I&amp;rsquo;d update y&amp;rsquo;all with some of my recent readings/watchings on the internet.
-Business Articles  Behind the Big Promises of the Micromobility Industry | CityLab What is the future of transportation? While there is industry hype on self-driving cars, I personally believe that micromobility (dockless bikes and scooters) are the nearer term solution. Fyre: The Greatest Party that Never Happened | Netflix This Netflix documentary, along with Hulu&amp;rsquo;s take on the Fyre festival, is an introspective take on a failed music festival in 2017 and the lead-up to the disaster.</description>
-    </item>
-    
-    <item>
-      <title>August 2018 Articles</title>
-      <link>/post/2018_08_links/</link>
-      <pubDate>Mon, 03 Sep 2018 11:50:20 -0400</pubDate>
-      
-      <guid>/post/2018_08_links/</guid>
-      <description>I keep a journal entry to write down my thoughts and also my day to day life (who I hang out with, where I eat etc), though recently I decided to also start keeping track of my digital history, a series of links of articles / websites that I&amp;rsquo;ve found interesting. Here are some that I&amp;rsquo;d like to share.
-Transit Articles  Why Is American Mass Transit So Bad? It&amp;rsquo;s a Long Story | CityLab: this is a good CityLab article about the history of public transit in the US, it&amp;rsquo;s rise in the early 20th century, and its demise as automobiles became more prevalent in this country in the ensuing decades.</description>
+      <guid>https://qandrew.github.io/blog/2019_01_links/</guid>
+      <description>Hi all! I thought I&#39;d update y&#39;all with some of my recent readings/watchings on the internet. Above is a picture from our hike in El Cani, Chile, Jan 2019.
+Business Articles  Behind the Big Promises of the Micromobility Industry | CityLab What is the future of transportation? While there is industry hype on self-driving cars, I personally believe that micromobility (dockless bikes and scooters) are the nearer term solution. Fyre: The Greatest Party that Never Happened | Netflix This Netflix documentary, along with Hulu&#39;s take on the Fyre festival, is an introspective take on a failed music festival in 2017 and the lead-up to the disaster.</description>
     </item>
     
   </channel>
