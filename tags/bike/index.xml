@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bike on Andrew Xia</title>
+    <link>https://qandrew.github.io/tags/bike/</link>
+    <description>Recent content in bike on Andrew Xia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://qandrew.github.io/tags/bike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With Cycling</title>
+      <link>https://qandrew.github.io/blog/bike/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qandrew.github.io/blog/bike/</guid>
+      <description>Recently, due to COVID related lockdowns, a lot of my friends have been getting into cycling! I thought I&#39;d write a series of blog posts on how to get into cycling and what to look for.
+Why do I enjoy cycling? For me, I started cycling in Fall 2017, after I had completed my undergraduate, and I was looking to pick up a new hobby. My friend Brian Axelrod introduced me to road biking, which I really enjoyed, especially climbing up the South Bay hills during my internship at Facebook.</description>
+    </item>
+    
+  </channel>
+</rss>
