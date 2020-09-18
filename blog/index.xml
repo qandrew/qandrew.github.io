@@ -21,6 +21,15 @@ Why do I enjoy cycling? For me, I started cycling in Fall 2017, after I had comp
     </item>
     
     <item>
+      <title>Using Computer Vision to Evaluate Scooter Parking</title>
+      <link>https://qandrew.github.io/blog/lime/</link>
+      <pubDate>Mon, 13 Jul 2020 06:46:36 -0400</pubDate>
+      
+      <guid>https://qandrew.github.io/blog/lime/</guid>
+      <description>I&#39;m happy to share some of the work I&#39;ve been doing at Lime recently. Mainly collaborating with Yi Su (and with the help of many other co-workers) we were able to train and deploy a computer vision based model to detect whether a scooter is parked in compliance or not through the photos at the end of a trip or scooter deployment. As proper parking is one of the major factors in winning RFPs and the ability to operate in cities, I&#39;m glad that our model can help nudge users to park better and make support micromobility.</description>
+    </item>
+    
+    <item>
       <title>El Eclipse Solar</title>
       <link>https://qandrew.github.io/blog/eclipse/</link>
       <pubDate>Wed, 17 Jul 2019 06:46:36 -0400</pubDate>

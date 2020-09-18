@@ -2,31 +2,27 @@
 <html lang="en">
   <head>
   <meta charset="utf-8">
-<title>MIT Sophomore Mixer Series - Andrew Xia</title>
+<title>Using Computer Vision to Evaluate Scooter Parking - Andrew Xia</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="generator" content="Hugo 0.60.1" /><meta itemprop="name" content="MIT Sophomore Mixer Series">
-<meta itemprop="description" content="We worked with the MIT Class Council to connect over 300 members of the Class of 2017 with each other through the Mixer Series">
-<meta itemprop="datePublished" content="2015-06-15T11:50:20-04:00" />
-<meta itemprop="dateModified" content="2015-06-15T11:50:20-04:00" />
-<meta itemprop="wordCount" content="227">
-<meta itemprop="image" content="https://qandrew.github.io/img/mixer/featured.jpg">
+<meta name="generator" content="Hugo 0.60.1" /><meta itemprop="name" content="Using Computer Vision to Evaluate Scooter Parking">
+<meta itemprop="description" content="I&#39;m happy to share some of the work I&#39;ve been doing at Lime recently. Mainly collaborating with Yi Su (and with the help of many other co-workers) we were able to train and deploy a computer vision based model to detect whether a scooter is parked in compliance or not through the photos at the end of a trip or scooter deployment. As proper parking is one of the major factors in winning RFPs and the ability to operate in cities, I&#39;m glad that our model can help nudge users to park better and make support micromobility.">
+<meta itemprop="datePublished" content="2020-07-13T06:46:36-04:00" />
+<meta itemprop="dateModified" content="2020-07-13T06:46:36-04:00" />
+<meta itemprop="wordCount" content="120">
 
 
 
-<meta itemprop="keywords" content="projects,blog," /><meta property="og:title" content="MIT Sophomore Mixer Series" />
-<meta property="og:description" content="We worked with the MIT Class Council to connect over 300 members of the Class of 2017 with each other through the Mixer Series" />
+<meta itemprop="keywords" content="academic," /><meta property="og:title" content="Using Computer Vision to Evaluate Scooter Parking" />
+<meta property="og:description" content="I&#39;m happy to share some of the work I&#39;ve been doing at Lime recently. Mainly collaborating with Yi Su (and with the help of many other co-workers) we were able to train and deploy a computer vision based model to detect whether a scooter is parked in compliance or not through the photos at the end of a trip or scooter deployment. As proper parking is one of the major factors in winning RFPs and the ability to operate in cities, I&#39;m glad that our model can help nudge users to park better and make support micromobility." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://qandrew.github.io/blog/2015_mixer_series/" />
-<meta property="og:image" content="https://qandrew.github.io/img/mixer/featured.jpg" />
-<meta property="article:published_time" content="2015-06-15T11:50:20-04:00" />
-<meta property="article:modified_time" content="2015-06-15T11:50:20-04:00" />
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://qandrew.github.io/img/mixer/featured.jpg"/>
-
-<meta name="twitter:title" content="MIT Sophomore Mixer Series"/>
-<meta name="twitter:description" content="We worked with the MIT Class Council to connect over 300 members of the Class of 2017 with each other through the Mixer Series"/>
+<meta property="og:url" content="https://qandrew.github.io/blog/lime/" />
+<meta property="article:published_time" content="2020-07-13T06:46:36-04:00" />
+<meta property="article:modified_time" content="2020-07-13T06:46:36-04:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Using Computer Vision to Evaluate Scooter Parking"/>
+<meta name="twitter:description" content="I&#39;m happy to share some of the work I&#39;ve been doing at Lime recently. Mainly collaborating with Yi Su (and with the help of many other co-workers) we were able to train and deploy a computer vision based model to detect whether a scooter is parked in compliance or not through the photos at the end of a trip or scooter deployment. As proper parking is one of the major factors in winning RFPs and the ability to operate in cities, I&#39;m glad that our model can help nudge users to park better and make support micromobility."/>
 <link rel="stylesheet" href="/css/bundle.min.759e3848ea529eef056dab665b241e2af569e601ab80f68f8d4a4d002a155dd4.css" integrity="sha256-dZ44SOpSnu8FbatmWyQeKvVp5gGrgPaPjUpNACoVXdQ="><link rel="stylesheet" href="/css/add-on.css">
 </head>
 
@@ -117,37 +113,37 @@
 
   
     
-    <a href="//twitter.com/share?text=MIT%20Sophomore%20Mixer%20Series&amp;url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+    <a href="//twitter.com/share?text=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking&amp;url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
         <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
       </a>
   
 
   
-      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
         <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>
         </a>
   
 
   
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;title=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn reddit">
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;title=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn reddit">
           <i class="fab fa-reddit-alien"></i><p>&nbsp;Reddit</p>
         </a>
   
 
   
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;title=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn linkedin">
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;title=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <i class="fab fa-linkedin"></i><p>&nbsp;LinkedIn</p>
           </a>
   
 
   
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;description=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;description=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn pinterest">
           <i class="fab fa-pinterest-p"></i><p>&nbsp;Pinterest</p>
         </a>
   
 
   
-        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <i class="fas fa-envelope"></i><p>&nbsp;Email</p>
         </a>
   
@@ -224,19 +220,17 @@
     <header>
   <div class="title">
     
-      <h2><a href="/blog/2015_mixer_series/">MIT Sophomore Mixer Series</a></h2>
+      <h2><a href="/blog/lime/">Using Computer Vision to Evaluate Scooter Parking</a></h2>
     
-    
-      <p>We worked with the MIT Class Council to connect over 300 members of the Class of 2017 with each other through the Mixer Series</p>
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2015-06-15 11:50:20 -0400 -0400">
-      June 15, 2015
+    <time class="published" datetime="2020-07-13 06:46:36 -0400 -0400">
+      July 13, 2020
     </time>
     <span class="author"></span>
     
-      <p>2 minute read</p>
+      <p>1 minute read</p>
     
   </div>
 </header>
@@ -249,37 +243,37 @@
 
   
     
-    <a href="//twitter.com/share?text=MIT%20Sophomore%20Mixer%20Series&amp;url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+    <a href="//twitter.com/share?text=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking&amp;url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
         <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
       </a>
   
 
   
-      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
         <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>
         </a>
   
 
   
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;title=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn reddit">
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;title=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn reddit">
           <i class="fab fa-reddit-alien"></i><p>&nbsp;Reddit</p>
         </a>
   
 
   
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;title=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn linkedin">
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;title=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <i class="fab fa-linkedin"></i><p>&nbsp;LinkedIn</p>
           </a>
   
 
   
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f&amp;description=MIT%20Sophomore%20Mixer%20Series" target="_blank" rel="noopener" class="nav share-btn pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f&amp;description=Using%20Computer%20Vision%20to%20Evaluate%20Scooter%20Parking" target="_blank" rel="noopener" class="nav share-btn pinterest">
           <i class="fab fa-pinterest-p"></i><p>&nbsp;Pinterest</p>
         </a>
   
 
   
-        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fqandrew.github.io%2fblog%2f2015_mixer_series%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fqandrew.github.io%2fblog%2flime%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <i class="fas fa-envelope"></i><p>&nbsp;Email</p>
         </a>
   
@@ -287,34 +281,21 @@
 
     </section>
     
-  <a href="/blog/2015_mixer_series/" class="image featured">
-    
-      <img src="https://qandrew.github.io/img/mixer/featured.jpg" alt="">
-    
-  </a>
-
 
     <div class="content">
-      <p>Over IAP 2015 (MIT Speak for our January break), Justine Jang and I worked with Fred Daso and the MIT 2017 Class Council on the Mixer Series project as a way to connect MIT sophomores with each other.</p>
-<hr>
-<h3 id="what-we-did">What we did</h3>
-<p>MIT is a very diverse community, but students are very busy. So how does one meet new people outside of her daily life cycle of classes, clubs, psetting, and her friend group? I met with Justine and Fred to discuss ideas of bringing the sophomore class closer, and we thought about randomly matching sophomores to get lunch together as a nice way to meet new people.</p>
-<p>To participate in the Mixer Series, we created a google form and posted it on the class of 2017 page. We wrote a random matching algorithm to create groups of four sophomores not in the same major, dorm, or affiliation. Then, the program emailed the matches and groups began to coordinate a time and place to meet up.</p>
-<p>Throughout February, 300 sophomores signed up, and new friendships were formed. Groups met up and posted selfies to the facebook page, generating &ldquo;likes&rdquo; and a better sense of community within our diverse class.</p>
-<hr>
-<h3 id="sample-selfies">Sample Selfies</h3>
-<p>Here are some of the photos of the class of 2017!</p>
+      <p>I'm happy to share some of the work I've been doing at Lime recently. Mainly collaborating with Yi Su (and with the help of many other co-workers) we were able to train and deploy a computer vision based model to detect whether a scooter is parked in compliance or not through the photos at the end of a trip or scooter deployment. As proper parking is one of the major factors in winning RFPs and the ability to operate in cities, I'm glad that our model can help nudge users to park better and make support micromobility.</p>
 
 
-  <center>
-  	<img style="width:45%;" src="/img/mixer/mixerseries_photo1.jpg">
-  	<img style="width:45%;" src="/img/mixer/mixerseries_photo2.jpg">
-  </center>
+<center>
+  <img style="width:50%;" src="/img/lime_park.png" alt="Scooter">
+</center>
 
-<hr>
-<h3 id="links">Links</h3>
-<p>View the <a href="/files/mixerseries_proposal.pdf"><strong>proposal document</strong></a> we wrote to the 2017 Class Council</p>
-<p>View our form <a href="https://docs.google.com/forms/d/1XnbpaHoILWYE92E3rfoKTKgy0hzQaaQZNhwG7ckSfUE"><strong>here</strong></a>!</p>
+
+
+
+<center><i>Deployment partners are able to contest the model review and submit feedback if they disagree</i></center>
+
+<p><a href="https://medium.com/lime-eng/using-computer-vision-to-evaluate-scooter-parking-9979a1c3d685">Here</a> is the link to the medium post!</p>
 
     </div>
     <footer>
@@ -331,9 +312,7 @@
     
       
         
-          <li><a class="article-terms-link" href="/tags/projects/">projects</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/blog/">blog</a></li>
+          <li><a class="article-terms-link" href="/tags/academic/">academic</a></li>
         
       
     
@@ -355,7 +334,7 @@
       </h5>
 
       
-      <input type="hidden" name="options[entryId]" value="19a0929beef13356eabfe9fcb9e52408">
+      <input type="hidden" name="options[entryId]" value="4737b434b35a7edb533a6bd8f070f6c1">
       <input type='hidden' name='fields[replyThread]' value=''>
       <input type='hidden' name='fields[replyID]' value=''>
       <input type='hidden' name='fields[replyName]' value=''>
@@ -398,8 +377,10 @@
 
   <div class="pagination">
   
+    <a href="/blog/eclipse/" class="button"><div class="previous"><div>El Eclipse Solar</div></div></a>
   
-    <a href="/blog/6.854/" class="button"><div class="next"><div>6.854 Advanced Algorithms Lecture Videos</div></div></a>
+  
+    <a href="/blog/bike/" class="button"><div class="next"><div>Getting Started With Cycling</div></div></a>
   
 </div>
 
